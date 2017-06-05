@@ -1,0 +1,10568 @@
+[
+  {
+    "rs" : [
+      "MY",
+      "GYM"
+    ],
+    "word" : "MYG"
+  },
+  {
+    "rs" : [
+      "UP",
+      "CUP"
+    ],
+    "word" : "UPC"
+  },
+  {
+    "rs" : [
+      "AT",
+      "BAT",
+      "TAB"
+    ],
+    "word" : "ATB"
+  },
+  {
+    "rs" : [
+      "GO",
+      "OF",
+      "FOG"
+    ],
+    "word" : "GOF"
+  },
+  {
+    "rs" : [
+      "NO",
+      "SO",
+      "ON",
+      "SON"
+    ],
+    "word" : "NOS"
+  },
+  {
+    "rs" : [
+      "DO",
+      "DOG",
+      "GO",
+      "GOD"
+    ],
+    "word" : "DOG"
+  },
+  {
+    "rs" : [
+      "OF",
+      "OX",
+      "FOX"
+    ],
+    "word" : "OFX"
+  },
+  {
+    "rs" : [
+      "NO",
+      "NOW",
+      "ON",
+      "OWN",
+      "WON"
+    ],
+    "word" : "NOW"
+  },
+  {
+    "rs" : [
+      "AM",
+      "MAY",
+      "MY",
+      "YAM"
+    ],
+    "word" : "AMY"
+  },
+  {
+    "rs" : [
+      "AT",
+      "PAT",
+      "APT",
+      "TAP"
+    ],
+    "word" : "ATP"
+  },
+  {
+    "rs" : [
+      "DO",
+      "OF",
+      "FOOD"
+    ],
+    "word" : "DOOF"
+  },
+  {
+    "rs" : [
+      "SO",
+      "US",
+      "SOUL"
+    ],
+    "word" : "OUSL"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "CAFE",
+      "FACE"
+    ],
+    "word" : "AFEC"
+  },
+  {
+    "rs" : [
+      "NO",
+      "ONE",
+      "ON",
+      "OVEN"
+    ],
+    "word" : "OVNE"
+  },
+  {
+    "rs" : [
+      "DO",
+      "ROW",
+      "OR",
+      "WORD",
+      "ROD"
+    ],
+    "word" : "ODRW"
+  },
+  {
+    "rs" : [
+      "IS",
+      "SEW",
+      "WE",
+      "WISE"
+    ],
+    "word" : "IWSE"
+  },
+  {
+    "rs" : [
+      "PIT",
+      "TIP",
+      "RIP",
+      "TRIP",
+      "IT"
+    ],
+    "word" : "TRPI"
+  },
+  {
+    "rs" : [
+      "AT",
+      "FAT",
+      "ACT",
+      "FACT",
+      "CAT"
+    ],
+    "word" : "ATFC"
+  },
+  {
+    "rs" : [
+      "AS",
+      "SAVE",
+      "SEA",
+      "VASE"
+    ],
+    "word" : "AVSE"
+  },
+  {
+    "rs" : [
+      "DO",
+      "SOW",
+      "OR",
+      "RODS",
+      "SO",
+      "ROWS",
+      "ROD",
+      "WORD",
+      "ROW",
+      "SWORD",
+      "SOD",
+      "WORDS"
+    ],
+    "word" : "ODWRS"
+  },
+  {
+    "rs" : [
+      "BY",
+      "BUY",
+      "US",
+      "SUB",
+      "BUS",
+      "BUSY",
+      "BUYS"
+    ],
+    "word" : "YBUS"
+  },
+  {
+    "rs" : [
+      "IF",
+      "FIT",
+      "IT",
+      "GIFT",
+      "FIG"
+    ],
+    "word" : "FTIG"
+  },
+  {
+    "rs" : [
+      "ME",
+      "LIME",
+      "LIE",
+      "MILE"
+    ],
+    "word" : "MIEL"
+  },
+  {
+    "rs" : [
+      "IN",
+      "GRIN",
+      "GIN",
+      "RING",
+      "RIG"
+    ],
+    "word" : "RING"
+  },
+  {
+    "rs" : [
+      "SO",
+      "WHO",
+      "HOW",
+      "SHOW",
+      "SOW"
+    ],
+    "word" : "OHWS"
+  },
+  {
+    "rs" : [
+      "WE",
+      "DIE",
+      "DEW",
+      "WIDE",
+      "WED"
+    ],
+    "word" : "DWIE"
+  },
+  {
+    "rs" : [
+      "IF",
+      "FEW",
+      "WIFE",
+      "WE"
+    ],
+    "word" : "FIWE"
+  },
+  {
+    "rs" : [
+      "IN",
+      "PIE",
+      "NIP",
+      "PIN",
+      "PEN",
+      "PINE"
+    ],
+    "word" : "INPE"
+  },
+  {
+    "rs" : [
+      "BOW",
+      "OWL",
+      "LOB",
+      "BLOW",
+      "LOW",
+      "BOWL"
+    ],
+    "word" : "OBWL"
+  },
+  {
+    "rs" : [
+      "SO",
+      "SUP",
+      "UP",
+      "UPS",
+      "US",
+      "SOUP",
+      "SOP",
+      "PUS"
+    ],
+    "word" : "OPUS"
+  },
+  {
+    "rs" : [
+      "AT",
+      "RATE",
+      "TARE",
+      "TEAR"
+    ],
+    "word" : "ATRE"
+  },
+  {
+    "rs" : [
+      "AT",
+      "ARE",
+      "ART",
+      "ATE",
+      "EAR",
+      "EAT",
+      "ERA",
+      "RAT",
+      "RET",
+      "TAR",
+      "TEA",
+      "RATE",
+      "TARE",
+      "TEAR"
+    ],
+    "word" : "ATRE"
+  },
+  {
+    "rs" : [
+      "BID",
+      "RID",
+      "RIB",
+      "BIRD"
+    ],
+    "word" : "DBIR"
+  },
+  {
+    "rs" : [
+      "IN",
+      "WEN",
+      "WE",
+      "WIN",
+      "NEW",
+      "WINE"
+    ],
+    "word" : "INWE"
+  },
+  {
+    "rs" : [
+      "HE",
+      "ORE",
+      "HER",
+      "ROE",
+      "HOE",
+      "HERO"
+    ],
+    "word" : "HORE"
+  },
+  {
+    "rs" : [
+      "OF",
+      "FUR",
+      "OR",
+      "OUR",
+      "FOR",
+      "FOUR"
+    ],
+    "word" : "OFRU"
+  },
+  {
+    "rs" : [
+      "HI",
+      "NIT",
+      "IN",
+      "TIN",
+      "IT",
+      "HINT",
+      "HIT",
+      "THIN"
+    ],
+    "word" : "HTIN"
+  },
+  {
+    "rs" : [
+      "CUE",
+      "ICE",
+      "JUICE"
+    ],
+    "word" : "JIUEC"
+  },
+  {
+    "rs" : [
+      "LESS",
+      "BLESS"
+    ],
+    "word" : "SSBLE"
+  },
+  {
+    "rs" : [
+      "SOY",
+      "ROSY",
+      "SORRY"
+    ],
+    "word" : "OYRRS"
+  },
+  {
+    "rs" : [
+      "ALL",
+      "CALL",
+      "COAL",
+      "LOCAL"
+    ],
+    "word" : "AOLLC"
+  },
+  {
+    "rs" : [
+      "FAT",
+      "FATS",
+      "SAT",
+      "STAFF",
+      "FAST"
+    ],
+    "word" : "AFFTS"
+  },
+  {
+    "rs" : [
+      "HOT",
+      "HOOT",
+      "TOO",
+      "TOOTH",
+      "TOT"
+    ],
+    "word" : "HOOTT"
+  },
+  {
+    "rs" : [
+      "SKI",
+      "WISH",
+      "WHISK"
+    ],
+    "word" : "HKIWS"
+  },
+  {
+    "rs" : [
+      "AID",
+      "AND",
+      "DIN",
+      "INDIA"
+    ],
+    "word" : "ADIIN"
+  },
+  {
+    "rs" : [
+      "DAY",
+      "TOY",
+      "DOT",
+      "TOAD",
+      "OAT",
+      "TODAY",
+      "TAD"
+    ],
+    "word" : "ATDYO"
+  },
+  {
+    "rs" : [
+      "IRE",
+      "VIE",
+      "LIE",
+      "LIVER",
+      "REV"
+    ],
+    "word" : "VRIEL"
+  },
+  {
+    "rs" : [
+      "IRE",
+      "RILE",
+      "LIE",
+      "RIVE",
+      "REV",
+      "VEIL",
+      "VIE",
+      "VILE",
+      "EVIL",
+      "LIVER",
+      "LIVE"
+    ],
+    "word" : "VRIEL"
+  },
+  {
+    "rs" : [
+      "CAB",
+      "LACK",
+      "BLACK",
+      "BACK"
+    ],
+    "word" : "AKBLC"
+  },
+  {
+    "rs" : [
+      "JOY",
+      "ONE",
+      "YEN",
+      "ENJOY"
+    ],
+    "word" : "OYNEJ"
+  },
+  {
+    "rs" : [
+      "RIB",
+      "CRIB",
+      "RICH",
+      "BIRCH"
+    ],
+    "word" : "HRIBC"
+  },
+  {
+    "rs" : [
+      "LOB",
+      "LOOM",
+      "MOB",
+      "BLOOM",
+      "BOOM"
+    ],
+    "word" : "OOMBL"
+  },
+  {
+    "rs" : [
+      "LIP",
+      "PUT",
+      "LIT",
+      "TIP",
+      "PIT",
+      "TULIP"
+    ],
+    "word" : "TIPLU"
+  },
+  {
+    "rs" : [
+      "HOT",
+      "MOTH",
+      "NOT",
+      "MONTH",
+      "TON"
+    ],
+    "word" : "HOTMN"
+  },
+  {
+    "rs" : [
+      "LAW",
+      "CLAW",
+      "SAW",
+      "LAWS",
+      "WAS",
+      "CLAWS"
+    ],
+    "word" : "ASWLC"
+  },
+  {
+    "rs" : [
+      "OAR",
+      "WAR",
+      "RAW",
+      "ROAR",
+      "ROW",
+      "ARROW"
+    ],
+    "word" : "OARRW"
+  },
+  {
+    "rs" : [
+      "FIG",
+      "GIFT",
+      "FIT",
+      "FIGHT",
+      "HIT"
+    ],
+    "word" : "HFTIG"
+  },
+  {
+    "rs" : [
+      "MET",
+      "TEMP",
+      "PET",
+      "TYPE",
+      "YET",
+      "EMPTY"
+    ],
+    "word" : "MTPYE"
+  },
+  {
+    "rs" : [
+      "ARM",
+      "RAD",
+      "DAM",
+      "RAM",
+      "MAD",
+      "DRAMA",
+      "MAR"
+    ],
+    "word" : "AAMRD"
+  },
+  {
+    "rs" : [
+      "CUE",
+      "LUCK",
+      "NECK",
+      "LUNE",
+      "UNCLE"
+    ],
+    "word" : "LNKUEC"
+  },
+  {
+    "rs" : [
+      "SUE",
+      "USES",
+      "USE",
+      "GUESS",
+      "SUES"
+    ],
+    "word" : "GUSSE"
+  },
+  {
+    "rs" : [
+      "DIM",
+      "MID",
+      "HID",
+      "MUD",
+      "HIM",
+      "HUMID",
+      "HUM"
+    ],
+    "word" : "HMDIU"
+  },
+  {
+    "rs" : [
+      "DIM",
+      "MID",
+      "HID",
+      "MUD",
+      "HIM",
+      "HUMID",
+      "HUM"
+    ],
+    "word" : "HMDIU"
+  },
+  {
+    "rs" : [
+      "BYE",
+      "YELL",
+      "LYE",
+      "BELLY",
+      "BELL"
+    ],
+    "word" : "YBELL"
+  },
+  {
+    "rs" : [
+      "BUM",
+      "HUT",
+      "BUT",
+      "TUB",
+      "HUB",
+      "THUMB",
+      "HUM"
+    ],
+    "word" : "HMTBU"
+  },
+  {
+    "rs" : [
+      "DOG",
+      "HOD",
+      "DUG",
+      "HOG",
+      "DUO",
+      "HUG",
+      "GOD",
+      "DOUGH"
+    ],
+    "word" : "OHDGU"
+  },
+  {
+    "rs" : [
+      "ARM",
+      "RAY",
+      "MAR",
+      "YAM",
+      "MAY",
+      "ARMY",
+      "RAM",
+      "MARRY"
+    ],
+    "word" : "AMRRY"
+  },
+  {
+    "rs" : [
+      "LIP",
+      "SIP",
+      "LOP",
+      "SOP",
+      "OIL",
+      "SPOIL"
+    ],
+    "word" : "OIPLS"
+  },
+  {
+    "rs" : [
+      "LIP",
+      "OILS",
+      "LOP",
+      "SILO",
+      "OIL",
+      "SLIP",
+      "SIP",
+      "SLOP",
+      "SOP",
+      "SOIL",
+      "LIPS",
+      "SPOIL",
+      "LISP"
+    ],
+    "word" : "OIPLS"
+  },
+  {
+    "rs" : [
+      "ANT",
+      "TANK",
+      "HAT",
+      "THAN",
+      "TAN",
+      "THANK"
+    ],
+    "word" : "ATKHN"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "AIRY",
+      "FAR",
+      "FAIR",
+      "FIR",
+      "FRAY",
+      "FRY",
+      "FAIRY",
+      "RAY"
+    ],
+    "word" : "AFRIY"
+  },
+  {
+    "rs" : [
+      "EBB",
+      "BEAK",
+      "BABE",
+      "KEBAB",
+      "BAKE"
+    ],
+    "word" : "AKBBE"
+  },
+  {
+    "rs" : [
+      "CUP",
+      "COUP",
+      "HOP",
+      "POUCH",
+      "CHOP"
+    ],
+    "word" : "OHPUC"
+  },
+  {
+    "rs" : [
+      "LOW",
+      "ROW",
+      "OLD",
+      "LORD",
+      "OWL",
+      "WORD",
+      "ROD",
+      "WORLD"
+    ],
+    "word" : "ORWDL"
+  },
+  {
+    "rs" : [
+      "HID",
+      "DIRT",
+      "HIT",
+      "THIRD",
+      "RID"
+    ],
+    "word" : "HTDIR"
+  },
+  {
+    "rs" : [
+      "EVE",
+      "EVEN",
+      "NET",
+      "TEEN",
+      "TEE",
+      "VENT",
+      "TEN",
+      "EVENT",
+      "VET"
+    ],
+    "word" : "VTNEE"
+  },
+  {
+    "rs" : [
+      "GIN",
+      "HINT",
+      "HIT",
+      "THIN",
+      "NIT",
+      "NIGHT",
+      "TIN",
+      "THING"
+    ],
+    "word" : "HTIGN"
+  },
+  {
+    "rs" : [
+      "ION",
+      "PIN",
+      "NAP",
+      "PAIN",
+      "NIP",
+      "PIANO",
+      "PAN"
+    ],
+    "word" : "OAINP"
+  },
+  {
+    "rs" : [
+      "ASH",
+      "SEA",
+      "ASK",
+      "SHE",
+      "HAS",
+      "SHAKE"
+    ],
+    "word" : "AHKSE"
+  },
+  {
+    "rs" : [
+      "EGO",
+      "GEL",
+      "LEG",
+      "LOG",
+      "LOGE",
+      "LOVE",
+      "VOLE",
+      "GLOVE"
+    ],
+    "word" : "OVGEL"
+  },
+  {
+    "rs" : [
+      "ELF",
+      "FLESH",
+      "SHE",
+      "SHELF",
+      "SELF"
+    ],
+    "word" : "SFHEL"
+  },
+  {
+    "rs" : [
+      "IRE",
+      "MIX",
+      "RIM",
+      "MIRE",
+      "RIME",
+      "MIXER",
+      "REMIX"
+    ],
+    "word" : "MRIEX"
+  },
+  {
+    "rs" : [
+      "AND",
+      "ANY",
+      "CAD",
+      "CAN",
+      "DAY",
+      "NAY",
+      "CANDY"
+    ],
+    "word" : "ADYNC"
+  },
+  {
+    "rs" : [
+      "GAS",
+      "RAGS",
+      "RAG",
+      "RUGS",
+      "RUG",
+      "SUGAR",
+      "SAG"
+    ],
+    "word" : "ARGSU"
+  },
+  {
+    "rs" : [
+      "AGE",
+      "AIM",
+      "GEM",
+      "GAME",
+      "MAGE",
+      "MEGA",
+      "IMAGE"
+    ],
+    "word" : "AMIGE"
+  },
+  {
+    "rs" : [
+      "NIP",
+      "NIT",
+      "PIN",
+      "PIT",
+      "RIP",
+      "TIN",
+      "TIP",
+      "PINT",
+      "TRIP",
+      "PRINT"
+    ],
+    "word" : "TRINP"
+  },
+  {
+    "rs" : [
+      "DON",
+      "LOB",
+      "NOD",
+      "OLD",
+      "BOLD",
+      "BOND",
+      "BLOND"
+    ],
+    "word" : "ODBNL"
+  },
+  {
+    "rs" : [
+      "HEN",
+      "HEY",
+      "HOE",
+      "ONE",
+      "YEN",
+      "HONE",
+      "HONEY"
+    ],
+    "word" : "OHYNE"
+  },
+  {
+    "rs" : [
+      "RED",
+      "REED",
+      "DEER",
+      "GREED",
+      "EDGE"
+    ],
+    "word" : "RDGEE"
+  },
+  {
+    "rs" : [
+      "BED",
+      "DEER",
+      "BEE",
+      "EDGE",
+      "BEG",
+      "REED",
+      "RED",
+      "BREED",
+      "BEER",
+      "GREED",
+      "BRED"
+    ],
+    "word" : "DBREEG"
+  },
+  {
+    "rs" : [
+      "HOT",
+      "TOY",
+      "HUT",
+      "YOU",
+      "OUT",
+      "YOUTH"
+    ],
+    "word" : "HOTYU"
+  },
+  {
+    "rs" : [
+      "FOR",
+      "FORE",
+      "ORE",
+      "ZERO",
+      "FROZE",
+      "ROE"
+    ],
+    "word" : "OFREZ"
+  },
+  {
+    "rs" : [
+      "EVE",
+      "REV",
+      "EVEN",
+      "EVER",
+      "VEER",
+      "NERVE",
+      "NEVER"
+    ],
+    "word" : "VRNEE"
+  },
+  {
+    "rs" : [
+      "DON",
+      "FOND",
+      "DUN",
+      "FUND",
+      "DUO",
+      "UNDO",
+      "FUN",
+      "FOUND",
+      "NOD"
+    ],
+    "word" : "OFDNU"
+  },
+  {
+    "rs" : [
+      "ALL",
+      "SLAT",
+      "SAT",
+      "TALL",
+      "LAST",
+      "STALL",
+      "SALT"
+    ],
+    "word" : "ATLLS"
+  },
+  {
+    "rs" : [
+      "NOR",
+      "GOWN",
+      "NOW",
+      "GROW",
+      "OWN",
+      "WORN",
+      "GROWN",
+      "ROW",
+      "WON",
+      "WRONG"
+    ],
+    "word" : "ORWNG"
+  },
+  {
+    "rs" : [
+      "BIG",
+      "RIG",
+      "BIN",
+      "GRIN",
+      "GIN",
+      "RING",
+      "RIB",
+      "BRING"
+    ],
+    "word" : "RBIGN"
+  },
+  {
+    "rs" : [
+      "DRY",
+      "DIRT",
+      "RID",
+      "TIDY",
+      "TRY",
+      "DIRTY"
+    ],
+    "word" : "TDRYI"
+  },
+  {
+    "rs" : [
+      "HOE",
+      "THE",
+      "HOT",
+      "TOE",
+      "LET",
+      "HOLE",
+      "LOT",
+      "HOTEL"
+    ],
+    "word" : "HOTEL"
+  },
+  {
+    "rs" : [
+      "ATE",
+      "TAKE",
+      "AWE",
+      "TEAK",
+      "EAT",
+      "WAKE",
+      "TEA",
+      "WEAK",
+      "WET",
+      "TWEAK"
+    ],
+    "word" : "ATKWE"
+  },
+  {
+    "rs" : [
+      "BAT",
+      "TAB",
+      "BIT",
+      "BAIT",
+      "HAT",
+      "BATH",
+      "HIT",
+      "HABIT"
+    ],
+    "word" : "ATHBI"
+  },
+  {
+    "rs" : [
+      "ICE",
+      "MIRE",
+      "IRE",
+      "RICE",
+      "RIM",
+      "RIME",
+      "MICE",
+      "CRIME"
+    ],
+    "word" : "MRIEC"
+  },
+  {
+    "rs" : [
+      "HON",
+      "TON",
+      "HOT",
+      "HORN",
+      "NOR",
+      "TORN",
+      "NOT",
+      "NORTH",
+      "ROT",
+      "THORN"
+    ],
+    "word" : "HOTRN"
+  },
+  {
+    "rs" : [
+      "FOR",
+      "FONT",
+      "NOR",
+      "FORT",
+      "NOT",
+      "TORN",
+      "ROT",
+      "FRONT",
+      "TON"
+    ],
+    "word" : "OFRTN"
+  },
+  {
+    "rs" : [
+      "SOY",
+      "ION",
+      "SIN",
+      "NOSY",
+      "SON",
+      "NOISY"
+    ],
+    "word" : "OYINS"
+  },
+  {
+    "rs" : [
+      "TAD",
+      "AND",
+      "TAN",
+      "ANT",
+      "ANTS",
+      "SAD",
+      "SAND",
+      "SAT",
+      "STAND"
+    ],
+    "word" : "ATDNS"
+  },
+  {
+    "rs" : [
+      "NET",
+      "TUN",
+      "NIT",
+      "TINE",
+      "NUT",
+      "TUNE",
+      "TEN",
+      "UNIT",
+      "TIE",
+      "UNITE",
+      "TIN",
+      "UNTIE"
+    ],
+    "word" : "TINEU"
+  },
+  {
+    "rs" : [
+      "BED",
+      "BRED",
+      "BEE",
+      "DEER",
+      "RED",
+      "REED",
+      "BEER",
+      "BREED"
+    ],
+    "word" : "DBREE"
+  },
+  {
+    "rs" : [
+      "AIM",
+      "BAM",
+      "TAB",
+      "BAT",
+      "BAIT",
+      "BIT",
+      "AMBIT"
+    ],
+    "word" : "AMTIB"
+  },
+  {
+    "rs" : [
+      "HEW",
+      "WIT",
+      "HIT",
+      "WHET",
+      "THE",
+      "WITH",
+      "TIE",
+      "WHITE",
+      "WET"
+    ],
+    "word" : "HTWIE"
+  },
+  {
+    "rs" : [
+      "HEW",
+      "WET",
+      "WITH",
+      "HIT",
+      "WIT",
+      "ETHIC",
+      "ICE",
+      "CHEW",
+      "TWICE",
+      "THE",
+      "CHIT",
+      "WHITE",
+      "TIC",
+      "TECH",
+      "WITCH",
+      "TIE",
+      "WHET"
+    ],
+    "word" : "HTWIEC"
+  },
+  {
+    "rs" : [
+      "ASK",
+      "SANE",
+      "KEN",
+      "SANK",
+      "SEA",
+      "SNAKE",
+      "SNEAK",
+      "SAKE"
+    ],
+    "word" : "AKNSE"
+  },
+  {
+    "rs" : [
+      "ORE",
+      "POKE",
+      "PER",
+      "PORE",
+      "PRO",
+      "PORK",
+      "REP",
+      "ROPE",
+      "ROE",
+      "POKER",
+      "PERK"
+    ],
+    "word" : "ORPKE"
+  },
+  {
+    "rs" : [
+      "MAN",
+      "WAN",
+      "MAW",
+      "WON",
+      "MOW",
+      "MOAN",
+      "NOW",
+      "MOWN",
+      "OWN",
+      "WOMAN"
+    ],
+    "word" : "AMOWN"
+  },
+  {
+    "rs" : [
+      "HOT",
+      "TWO",
+      "HOW",
+      "WHO",
+      "ROT",
+      "THROW",
+      "ROW",
+      "WORTH",
+      "TOW"
+    ],
+    "word" : "HOTWR"
+  },
+  {
+    "rs" : [
+      "ARE",
+      "BARE",
+      "BAR",
+      "BEAR",
+      "BRA",
+      "RAZE",
+      "EAR",
+      "BRAZE",
+      "ERA",
+      "ZEBRA"
+    ],
+    "word" : "ARBEZ"
+  },
+  {
+    "rs" : [
+      "ELM",
+      "NOEL",
+      "OMEN",
+      "ONE",
+      "LEMON",
+      "LONE",
+      "MELON",
+      "MOLE"
+    ],
+    "word" : "OMNEL"
+  },
+  {
+    "rs" : [
+      "ELF",
+      "FUEL",
+      "FLU",
+      "LEFT",
+      "LET",
+      "LUTE",
+      "FELT",
+      "FLUTE",
+      "FLUE"
+    ],
+    "word" : "FTUEL"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "CANE",
+      "CAN",
+      "CONE",
+      "CON",
+      "ONCE",
+      "CANOE",
+      "ONE",
+      "OCEAN",
+      "ACNE"
+    ],
+    "word" : "AONEC"
+  },
+  {
+    "rs" : [
+      "BUG",
+      "RUG",
+      "BUR",
+      "BURY",
+      "BUY",
+      "GRUB",
+      "GUY",
+      "RUBY",
+      "RUB",
+      "RUGBY"
+    ],
+    "word" : "RBUGY"
+  },
+  {
+    "rs" : [
+      "COP",
+      "TIC",
+      "COT",
+      "TIP",
+      "OPT",
+      "TOP",
+      "PIT",
+      "OPTIC",
+      "POT",
+      "TOPIC"
+    ],
+    "word" : "OTPIC"
+  },
+  {
+    "rs" : [
+      "GIN",
+      "SING",
+      "WIGS",
+      "SIN",
+      "WING",
+      "WIG",
+      "WINS",
+      "WIN",
+      "SWING",
+      "WINGS",
+      "SIGN"
+    ],
+    "word" : "WIGNS"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "USE",
+      "CUE",
+      "SAC",
+      "SEA",
+      "CASE",
+      "CUES",
+      "SEC",
+      "CAUSE",
+      "SUE",
+      "SAUCE"
+    ],
+    "word" : "ASUEC"
+  },
+  {
+    "rs" : [
+      "ARM",
+      "RAM",
+      "JAM",
+      "ROM",
+      "JAR",
+      "ROAM",
+      "MAR",
+      "MAJOR",
+      "OAR"
+    ],
+    "word" : "AMROJ"
+  },
+  {
+    "rs" : [
+      "DEN",
+      "DENT",
+      "END",
+      "NERD",
+      "NET",
+      "REND",
+      "RED",
+      "RENT",
+      "RET",
+      "TEND",
+      "TED",
+      "TREND",
+      "TEN"
+    ],
+    "word" : "TDRNE"
+  },
+  {
+    "rs" : [
+      "ICE",
+      "EPIC",
+      "IRE",
+      "PIER",
+      "PER",
+      "RICE",
+      "PIE",
+      "RIPE",
+      "RIP",
+      "PRICE"
+    ],
+    "word" : "RIPEC"
+  },
+  {
+    "rs" : [
+      "ITS",
+      "KITS",
+      "TICKS",
+      "STICK",
+      "SICK",
+      "TIC",
+      "SKI",
+      "TICK",
+      "KIT",
+      "SIT"
+    ],
+    "word" : "TKISC"
+  },
+  {
+    "rs" : [
+      "LIE",
+      "LOVE",
+      "OIL",
+      "VEIL",
+      "VIE",
+      "VILE",
+      "EVIL",
+      "VOLE",
+      "LIVE",
+      "OLIVE"
+    ],
+    "word" : "OVILE"
+  },
+  {
+    "rs" : [
+      "AIL",
+      "NAIL",
+      "SAIL",
+      "NIL",
+      "NAILS",
+      "SIN",
+      "SLAIN",
+      "SNAIL",
+      "LAIN"
+    ],
+    "word" : "AINLS"
+  },
+  {
+    "rs" : [
+      "BEG",
+      "NIB",
+      "BIG",
+      "GIBE",
+      "BIN",
+      "BEGIN",
+      "GIN",
+      "BEING"
+    ],
+    "word" : "IBGEN"
+  },
+  {
+    "rs" : [
+      "DIE",
+      "TED",
+      "IRE",
+      "TIE",
+      "RED",
+      "TIRED",
+      "RID"
+    ],
+    "word" : "TDIRE"
+  },
+  {
+    "rs" : [
+      "DIE",
+      "DIET",
+      "TIED",
+      "IRE",
+      "DIRE",
+      "TIER",
+      "RED",
+      "DIRT",
+      "TIRE",
+      "RET",
+      "EDIT",
+      "TIRED",
+      "RID",
+      "RIDE",
+      "TRIED",
+      "TED",
+      "RITE",
+      "TIE",
+      "TIDE"
+    ],
+    "word" : "TDIRE"
+  },
+  {
+    "rs" : [
+      "HOE",
+      "HOES",
+      "HUE",
+      "HOSE",
+      "SHE",
+      "HUES",
+      "SUE",
+      "SHOE",
+      "USE",
+      "HOUSE"
+    ],
+    "word" : "HOUES"
+  },
+  {
+    "rs" : [
+      "BOW",
+      "ROW",
+      "NOR",
+      "WON",
+      "NOW",
+      "BORN",
+      "ORB",
+      "BROW",
+      "OWN",
+      "WORN",
+      "ROB",
+      "BROWN"
+    ],
+    "word" : "ORBWN"
+  },
+  {
+    "rs" : [
+      "LOSE",
+      "LOVES",
+      "LOVE",
+      "SOLVE",
+      "VOLE"
+    ],
+    "word" : "OEVLS"
+  },
+  {
+    "rs" : [
+      "ILK",
+      "SILK",
+      "ILL",
+      "SILL",
+      "SKI",
+      "ILLS",
+      "SKILL",
+      "KILL"
+    ],
+    "word" : "KILLS"
+  },
+  {
+    "rs" : [
+      "AID",
+      "ROD",
+      "AIR",
+      "ARID",
+      "OAR",
+      "RAID",
+      "RAD",
+      "ROAD",
+      "RID",
+      "RADIO"
+    ],
+    "word" : "AODIR"
+  },
+  {
+    "rs" : [
+      "ARE",
+      "FARE",
+      "ARK",
+      "FEAR",
+      "EAR",
+      "KERF",
+      "ERA",
+      "RAKE",
+      "FAR",
+      "FAKER",
+      "REF",
+      "FREAK",
+      "FAKE"
+    ],
+    "word" : "AFRKE"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "CAPE",
+      "APE",
+      "EACH",
+      "CAP",
+      "HEAP",
+      "PACE",
+      "PEA",
+      "CHEAP",
+      "ACHE",
+      "PEACH"
+    ],
+    "word" : "AHPEC"
+  },
+  {
+    "rs" : [
+      "ATE",
+      "YET",
+      "EAT",
+      "MATE",
+      "MAT",
+      "MEAT",
+      "MAY",
+      "TAME",
+      "MET",
+      "TEAM",
+      "TEA",
+      "MEATY",
+      "YAM"
+    ],
+    "word" : "ATYME"
+  },
+  {
+    "rs" : [
+      "ORE",
+      "OVER",
+      "PER",
+      "PORE",
+      "PRO",
+      "ROPE",
+      "REP",
+      "ROVE",
+      "REV",
+      "PROVE"
+    ],
+    "word" : "OOVRPE"
+  },
+  {
+    "rs" : [
+      "SOLO",
+      "SILO",
+      "SOD",
+      "OLD",
+      "SLID",
+      "IDOL",
+      "OIL",
+      "LID",
+      "SOIL",
+      "IDOLS"
+    ],
+    "word" : "OODISL"
+  },
+  {
+    "rs" : [
+      "AID",
+      "DIAL",
+      "AIL",
+      "IDLY",
+      "DAY",
+      "LADY",
+      "LAD",
+      "LAID",
+      "LAY",
+      "DAILY",
+      "LID"
+    ],
+    "word" : "ADIYL"
+  },
+  {
+    "rs" : [
+      "BED",
+      "RID",
+      "BID",
+      "BIRD",
+      "DIE",
+      "BRED",
+      "IRE",
+      "DIRE",
+      "RED",
+      "RIDE",
+      "RIB",
+      "BRIDE"
+    ],
+    "word" : "DBREI"
+  },
+  {
+    "rs" : [
+      "ARC",
+      "CARS",
+      "ASH",
+      "CASH",
+      "CAR",
+      "CHAR",
+      "HAS",
+      "RASH",
+      "SAC",
+      "SCAR",
+      "ARCH",
+      "CHARS",
+      "ARCS",
+      "CRASH"
+    ],
+    "word" : "AHRSC"
+  },
+  {
+    "rs" : [
+      "ELF",
+      "FLEA",
+      "ELK",
+      "KALE",
+      "LEA",
+      "LAKE",
+      "LEAF",
+      "FAKE",
+      "LEAK",
+      "FLAK",
+      "FLAKE"
+    ],
+    "word" : "AFKEL"
+  },
+  {
+    "rs" : [
+      "OWL",
+      "WHO",
+      "HOE",
+      "HOLE",
+      "HOWL",
+      "HEW",
+      "OWE",
+      "LOW",
+      "HOW"
+    ],
+    "word" : "HOWEL"
+  },
+  {
+    "rs" : [
+      "GET",
+      "GRIT",
+      "IRE",
+      "TIER",
+      "RET",
+      "TIRE",
+      "RIG",
+      "TRIG",
+      "TIE",
+      "TIGER"
+    ],
+    "word" : "ATRIGE"
+  },
+  {
+    "rs" : [
+      "SET",
+      "VETO",
+      "TOE",
+      "VET",
+      "VOTE",
+      "TOES",
+      "STOVE",
+      "VEST",
+      "VOTES"
+    ],
+    "word" : "VTOSE"
+  },
+  {
+    "rs" : [
+      "BUR",
+      "BUSH",
+      "BUS",
+      "HUBS",
+      "HUB",
+      "RUBS",
+      "RUB",
+      "RUSH",
+      "SUB",
+      "BRUSH",
+      "BURS",
+      "SHRUB"
+    ],
+    "word" : "HRBUS"
+  },
+  {
+    "rs" : [
+      "OUR",
+      "TORT",
+      "OUT",
+      "TOUR",
+      "ROT",
+      "TOUT",
+      "RUT",
+      "TROT",
+      "TOT",
+      "TROUT",
+      "ROUT",
+      "TUTOR"
+    ],
+    "word" : "OTTRU"
+  },
+  {
+    "rs" : [
+      "ARE",
+      "EARN",
+      "EAR",
+      "NAVE",
+      "ERA",
+      "NEAR",
+      "RAN",
+      "RAVE",
+      "VAN",
+      "VANE",
+      "AVER",
+      "RAVEN"
+    ],
+    "word" : "AVRNE"
+  },
+  {
+    "rs" : [
+      "AND",
+      "RED",
+      "NERD",
+      "ARE",
+      "VAN",
+      "RAVE",
+      "DAN",
+      "AVER",
+      "READ",
+      "DEN",
+      "DARE",
+      "REND",
+      "EAR",
+      "DARN",
+      "VANE",
+      "END",
+      "DEAR",
+      "RAVED",
+      "ERA",
+      "EARN",
+      "RAVEN",
+      "RAD",
+      "NAVE",
+      "RAN",
+      "NEAR"
+    ],
+    "word" : "AVDRNE"
+  },
+  {
+    "rs" : [
+      "GIN",
+      "GIST",
+      "ITS",
+      "NIT",
+      "SIGN",
+      "SIN",
+      "SING",
+      "SIT",
+      "TING",
+      "TIN",
+      "TINS",
+      "STING"
+    ],
+    "word" : "TIGNS"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "ARTS",
+      "ART",
+      "RATS",
+      "ITS",
+      "STAR",
+      "RAT",
+      "STIR",
+      "SAT",
+      "TARS",
+      "SIR",
+      "ASTIR",
+      "SIT",
+      "STAIR",
+      "TAR"
+    ],
+    "word" : "ATRIS"
+  },
+  {
+    "rs" : [
+      "AMP",
+      "MAP",
+      "MAPS",
+      "MAW",
+      "PAWS",
+      "PAW",
+      "SPAM",
+      "SAP",
+      "SWAM",
+      "SAW",
+      "SWAP",
+      "SPA",
+      "WASP",
+      "WAS",
+      "SWAMP"
+    ],
+    "word" : "AMPWS"
+  },
+  {
+    "rs" : [
+      "DIE",
+      "RIDE",
+      "IRE",
+      "RIVE",
+      "RED",
+      "VIDE",
+      "REV",
+      "RID",
+      "VIE",
+      "DIVER",
+      "DIRE",
+      "DRIVE",
+      "DIVE",
+      "RIVED"
+    ],
+    "word" : "VDIRE"
+  },
+  {
+    "rs" : [
+      "DEN",
+      "ONE",
+      "DOE",
+      "DONE",
+      "DON",
+      "DOZE",
+      "END",
+      "NODE",
+      "ZONE",
+      "NOD",
+      "DOZEN",
+      "ODE",
+      "ZONED"
+    ],
+    "word" : "ODNEZ"
+  },
+  {
+    "rs" : [
+      "NAG",
+      "ANGLE",
+      "GLEAN",
+      "AGE",
+      "LEAN",
+      "GALE",
+      "GEL",
+      "LAG",
+      "LEG",
+      "LANE",
+      "ANGEL"
+    ],
+    "word" : "ANGEL"
+  },
+  {
+    "rs" : [
+      "AND",
+      "RAN",
+      "BAD",
+      "BAND",
+      "BAN",
+      "BARD",
+      "BAR",
+      "BARN",
+      "BRA",
+      "BRAN",
+      "DAB",
+      "DARN",
+      "NAB",
+      "DRAB",
+      "RAD",
+      "BRAND"
+    ],
+    "word" : "ADRNB"
+  },
+  {
+    "rs" : [
+      "AIL",
+      "RIP",
+      "AIR",
+      "LAIR",
+      "LAP",
+      "LIAR",
+      "LIP",
+      "PAIR",
+      "PAL",
+      "RAIL",
+      "PAR",
+      "APRIL",
+      "RAP"
+    ],
+    "word" : "ARIPL"
+  },
+  {
+    "rs" : [
+      "ANT",
+      "OAT",
+      "BAN",
+      "TAB",
+      "BOA",
+      "TON",
+      "BOT",
+      "BOAT",
+      "NAB",
+      "BATON",
+      "NOT"
+    ],
+    "word" : "ATOBN"
+  },
+  {
+    "rs" : [
+      "ORE",
+      "WOE",
+      "OWE",
+      "PORE",
+      "PER",
+      "PROW",
+      "PEW",
+      "ROPE",
+      "PRO",
+      "WORE",
+      "ROE",
+      "POWER",
+      "ROW"
+    ],
+    "word" : "ORWPE"
+  },
+  {
+    "rs" : [
+      "EWE",
+      "EWES",
+      "SEE",
+      "STEW",
+      "SET",
+      "SEW",
+      "WEST",
+      "TEE",
+      "WETS",
+      "WEE",
+      "SWEET",
+      "WET"
+    ],
+    "word" : "TWEES"
+  },
+  {
+    "rs" : [
+      "GIN",
+      "RIGS",
+      "RING",
+      "RIG",
+      "SIGN",
+      "SIN",
+      "SING",
+      "SIR",
+      "GRINS",
+      "RINGS",
+      "GRIN"
+    ],
+    "word" : "RIGNS"
+  },
+  {
+    "rs" : [
+      "ITS",
+      "SWAT",
+      "SAT",
+      "WAIT",
+      "SAW",
+      "WITS",
+      "SIT",
+      "WAIST",
+      "WAS",
+      "WAITS",
+      "WIT"
+    ],
+    "word" : "ATIWS"
+  },
+  {
+    "rs" : [
+      "HONE",
+      "HEN",
+      "HOPE",
+      "HOE",
+      "NOPE",
+      "HON",
+      "OPEN",
+      "HOP",
+      "PEON",
+      "ONE",
+      "PONE",
+      "PEN",
+      "PHONE"
+    ],
+    "word" : "OHPNE"
+  },
+  {
+    "rs" : [
+      "HOT",
+      "HUT",
+      "SHOT",
+      "OUT",
+      "SHUT",
+      "HOST",
+      "THOU",
+      "HOTS",
+      "THUS",
+      "HUTS",
+      "SHOUT",
+      "OUST",
+      "SOUTH"
+    ],
+    "word" : "HOTUS"
+  },
+  {
+    "rs" : [
+      "BOW",
+      "BLOW",
+      "LOB",
+      "BOLE",
+      "LOW",
+      "BOWL",
+      "OWE",
+      "LOBE",
+      "OWL",
+      "BELOW",
+      "WEB",
+      "BOWEL",
+      "WOE",
+      "ELBOW",
+      "BLEW"
+    ],
+    "word" : "OBWLE"
+  },
+  {
+    "rs" : [
+      "ARE",
+      "FEAR",
+      "EAR",
+      "FLEA",
+      "ELF",
+      "LEAF",
+      "ERA",
+      "REAL",
+      "FAR",
+      "FERAL",
+      "REF",
+      "FLARE",
+      "FARE"
+    ],
+    "word" : "AFREL"
+  },
+  {
+    "rs" : [
+      "AID",
+      "AIRY",
+      "AIR",
+      "ARID",
+      "DAY",
+      "RAID",
+      "RAD",
+      "YARD",
+      "RAY",
+      "DAIRY",
+      "RID",
+      "DIARY"
+    ],
+    "word" : "ADIRY"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "TEA",
+      "HATE",
+      "ACT",
+      "THE",
+      "HEAT",
+      "ATE",
+      "ACHE",
+      "TECH",
+      "CAT",
+      "CHAT",
+      "CHEAT",
+      "EAT",
+      "EACH",
+      "TEACH",
+      "HAT",
+      "ETCH"
+    ],
+    "word" : "ATHEC"
+  },
+  {
+    "rs" : [
+      "TOE",
+      "FEN",
+      "TON",
+      "FOE",
+      "FONT",
+      "NET",
+      "NOTE",
+      "NOT",
+      "TONE",
+      "ONE",
+      "OFTEN",
+      "TEN"
+    ],
+    "word" : "OTFNE"
+  },
+  {
+    "rs" : [
+      "FEN",
+      "FENS",
+      "TOES",
+      "FOE",
+      "FOES",
+      "TONE",
+      "NET",
+      "FONT",
+      "FONTS",
+      "NOT",
+      "NEST",
+      "NOTES",
+      "ONE",
+      "NETS",
+      "OFTEN",
+      "SET",
+      "NOSE",
+      "ONSET",
+      "SON",
+      "NOTE",
+      "STONE",
+      "TEN",
+      "ONES",
+      "TONES",
+      "TOE",
+      "SENT",
+      "SOFTEN",
+      "TON",
+      "SOFT"
+    ],
+    "word" : "OTFNES"
+  },
+  {
+    "rs" : [
+      "BUD",
+      "NOD",
+      "BUN",
+      "NUB",
+      "DON",
+      "BOND",
+      "DUB",
+      "UNDO",
+      "DUN",
+      "BOUND",
+      "DUO"
+    ],
+    "word" : "ODBUN"
+  },
+  {
+    "rs" : [
+      "ARE",
+      "MEN",
+      "MARE",
+      "ARM",
+      "RAM",
+      "MEAN",
+      "EAR",
+      "RAN",
+      "NAME",
+      "ERA",
+      "AMEN",
+      "NEAR",
+      "MAN",
+      "EARN",
+      "REAM",
+      "MAR",
+      "MANE"
+    ],
+    "word" : "AMRNE"
+  },
+  {
+    "rs" : [
+      "IMP",
+      "MIRE",
+      "IRE",
+      "PERM",
+      "PER",
+      "PIER",
+      "PIE",
+      "PRIM",
+      "REP",
+      "RIME",
+      "RIM",
+      "RIPE",
+      "RIP",
+      "PRIME"
+    ],
+    "word" : "MRIPE"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "CLAP",
+      "APE",
+      "LACE",
+      "CAP",
+      "LEAP",
+      "LAP",
+      "PACE",
+      "PAL",
+      "PALE",
+      "PEA",
+      "PLEA",
+      "CAPE",
+      "PLACE"
+    ],
+    "word" : "ALPEC"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "CAFE",
+      "ACT",
+      "FACE",
+      "ATE",
+      "FACT",
+      "CAT",
+      "FATE",
+      "EAT",
+      "FEAT",
+      "FAT",
+      "FACET",
+      "TEA"
+    ],
+    "word" : "AFTEC"
+  },
+  {
+    "rs" : [
+      "ARE",
+      "BARK",
+      "ARK",
+      "BEAK",
+      "BAR",
+      "BEAR",
+      "BRA",
+      "RAKE",
+      "EAR",
+      "BAKER",
+      "ERA",
+      "BRAKE",
+      "BAKE",
+      "BREAK",
+      "BARE"
+    ],
+    "word" : "ARBKE"
+  },
+  {
+    "rs" : [
+      "MARE",
+      "FAME",
+      "MAR",
+      "REF",
+      "FAR",
+      "RAM",
+      "ARE",
+      "FEAR",
+      "REAM",
+      "ARM",
+      "REM",
+      "FARM",
+      "FARE",
+      "FRAME",
+      "ERA",
+      "EAR"
+    ],
+    "word" : "AMRFE"
+  },
+  {
+    "rs" : [
+      "ITS",
+      "SOP",
+      "SPIT",
+      "OPT",
+      "TIP",
+      "STOP",
+      "PIT",
+      "TOP",
+      "TIPS",
+      "POT",
+      "TOPS",
+      "PSI",
+      "PITS",
+      "POSIT",
+      "SIP",
+      "POST",
+      "SIT",
+      "POTS"
+    ],
+    "word" : "OTIPS"
+  },
+  {
+    "rs" : [
+      "DIE",
+      "REP",
+      "PIER",
+      "DIP",
+      "RID",
+      "RIDE",
+      "IRE",
+      "RIP",
+      "RIPE",
+      "PER",
+      "DIRE",
+      "PRIDE",
+      "PIE",
+      "DRIP",
+      "RED",
+      "PIED"
+    ],
+    "word" : "DIREP"
+  },
+  {
+    "rs" : [
+      "HER",
+      "HERO",
+      "ROSE",
+      "HOE",
+      "HERS",
+      "SORE",
+      "ROE",
+      "HOSE",
+      "HORSE",
+      "SHE",
+      "ORES",
+      "SHORE",
+      "EROS"
+    ],
+    "word" : "HORES"
+  },
+  {
+    "rs" : [
+      "INN",
+      "NOON",
+      "ION",
+      "SOON",
+      "SIN",
+      "ONION",
+      "SON",
+      "ONIONS",
+      "INNS"
+    ],
+    "word" : "OOINNS"
+  },
+  {
+    "rs" : [
+      "LOW",
+      "FOWL",
+      "OWL",
+      "WOLF",
+      "WOO",
+      "WOOL",
+      "FLOW",
+      "FOLLOW",
+      "FOOL"
+    ],
+    "word" : "OOFWLL"
+  },
+  {
+    "rs" : [
+      "GUN",
+      "URN",
+      "GUY",
+      "HUNG",
+      "HUG",
+      "RUNG",
+      "RUG",
+      "HUNGRY",
+      "RUN"
+    ],
+    "word" : "HRYGUN"
+  },
+  {
+    "rs" : [
+      "BET",
+      "JOB",
+      "BOT",
+      "JOT",
+      "COB",
+      "TOE",
+      "COT",
+      "OBJECT",
+      "JET"
+    ],
+    "word" : "OTCBEJ"
+  },
+  {
+    "rs" : [
+      "BOP",
+      "HOP",
+      "COB",
+      "CHIP",
+      "COP",
+      "CHOP",
+      "HIP"
+    ],
+    "word" : "OHBPIC"
+  },
+  {
+    "rs" : [
+      "MET",
+      "YET",
+      "SETS",
+      "STEMS",
+      "MESS",
+      "MESSY",
+      "SET",
+      "SYSTEM",
+      "YES",
+      "STEM"
+    ],
+    "word" : "MTYESS"
+  },
+  {
+    "rs" : [
+      "BEE",
+      "TEE",
+      "BET",
+      "BEET",
+      "EEL",
+      "BELT",
+      "LEE",
+      "LET",
+      "BEETLE"
+    ],
+    "word" : "TBEEEL"
+  },
+  {
+    "rs" : [
+      "BID",
+      "RID",
+      "DRY",
+      "BIRD",
+      "HID",
+      "RIB",
+      "HYBRID"
+    ],
+    "word" : "HDBIRY"
+  },
+  {
+    "rs" : [
+      "INN",
+      "NINE",
+      "NET",
+      "TENT",
+      "NIT",
+      "TINE",
+      "TEN",
+      "TINT",
+      "TIE",
+      "INTENT",
+      "TIN"
+    ],
+    "word" : "TTINNE"
+  },
+  {
+    "rs" : [
+      "ION",
+      "LOIN",
+      "NIL",
+      "VIOL",
+      "OIL",
+      "VIOLIN",
+      "LION"
+    ],
+    "word" : "OVIINL"
+  },
+  {
+    "rs" : [
+      "GIN",
+      "LONG",
+      "ION",
+      "VIOL",
+      "LOG",
+      "LINGO",
+      "NIL",
+      "VIGIL",
+      "OIL",
+      "LIVING",
+      "LING",
+      "LOVING",
+      "LION",
+      "OILING",
+      "LOIN",
+      "VIOLIN"
+    ],
+    "word" : "OVIIGNL"
+  },
+  {
+    "rs" : [
+      "DIE",
+      "MUM",
+      "DIM",
+      "DIME",
+      "DUE",
+      "MIME",
+      "MID",
+      "MUD",
+      "MEDIUM"
+    ],
+    "word" : "MMDIUE"
+  },
+  {
+    "rs" : [
+      "DIG",
+      "GIRD",
+      "FIG",
+      "GRID",
+      "FIR",
+      "RIGID",
+      "RID",
+      "FRIGID",
+      "RIG"
+    ],
+    "word" : "FDIIGR"
+  },
+  {
+    "rs" : [
+      "APT",
+      "TAT",
+      "OAT",
+      "TOO",
+      "OPT",
+      "TOP",
+      "PAT",
+      "TOT",
+      "POT",
+      "POTATO",
+      "TAP"
+    ],
+    "word" : "ATTOOP"
+  },
+  {
+    "rs" : [
+      "GEL",
+      "LUGE",
+      "GUN",
+      "LUNE",
+      "LEG",
+      "LUNG",
+      "LUG",
+      "LUNGE",
+      "GLUE",
+      "JUNGLE",
+      "JUNE"
+    ],
+    "word" : "UNJGEL"
+  },
+  {
+    "rs" : [
+      "CLIP",
+      "CUP",
+      "CLUB",
+      "LIP",
+      "PUBLIC",
+      "BLIP"
+    ],
+    "word" : "CIBGPLU"
+  },
+  {
+    "rs" : [
+      "JUST",
+      "JUT",
+      "JUTS",
+      "SAD",
+      "STUD",
+      "SAT",
+      "TAD",
+      "ADJUST",
+      "DUST"
+    ],
+    "word" : "ATDUSJ"
+  },
+  {
+    "rs" : [
+      "FOG",
+      "FOOT",
+      "FOR",
+      "FORT",
+      "GOO",
+      "FROG",
+      "GOT",
+      "ROOF",
+      "ROT",
+      "ROOT",
+      "TOO",
+      "FORGOT"
+    ],
+    "word" : "OOFTRG"
+  },
+  {
+    "rs" : [
+      "FLU",
+      "FUSE",
+      "SUE",
+      "SELF",
+      "USE",
+      "FLUE",
+      "USEFUL",
+      "FUEL"
+    ],
+    "word" : "EFUULS"
+  },
+  {
+    "rs" : [
+      "GOO",
+      "SMOG",
+      "MOO",
+      "GROOM",
+      "ROM",
+      "MOOR",
+      "ROOMS",
+      "ROOM",
+      "GROOMS"
+    ],
+    "word" : "OOMRGS"
+  },
+  {
+    "rs" : [
+      "ERR",
+      "ROTE",
+      "ORE",
+      "TORE",
+      "RET",
+      "ERROR",
+      "ROE",
+      "RETRO",
+      "ROT",
+      "TERROR",
+      "TOE"
+    ],
+    "word" : "OTRRRE"
+  },
+  {
+    "rs" : [
+      "DEW",
+      "DICE",
+      "DIE",
+      "ICED",
+      "ICE",
+      "WICK",
+      "KID",
+      "WIDE",
+      "DECK",
+      "WICKED"
+    ],
+    "word" : "KDWIEC"
+  },
+  {
+    "rs" : [
+      "OUR",
+      "SUCH",
+      "HOUR",
+      "CRUSH",
+      "OURS",
+      "HOURS",
+      "RUSH",
+      "SCOUR",
+      "SOUR",
+      "CHORUS"
+    ],
+    "word" : "OHRUSC"
+  },
+  {
+    "rs" : [
+      "ROW",
+      "BUR",
+      "RUB",
+      "ORB",
+      "BROW",
+      "OUR",
+      "BURROW",
+      "ROB"
+    ],
+    "word" : "VORRBWU"
+  },
+  {
+    "rs" : [
+      "FOR",
+      "FORD",
+      "FOX",
+      "ODOR",
+      "ROD",
+      "ROOD",
+      "DOOR",
+      "ROOF",
+      "FOOD",
+      "OXFORD"
+    ],
+    "word" : "OOFRDX"
+  },
+  {
+    "rs" : [
+      "HIT",
+      "LILT",
+      "ILL",
+      "RILL",
+      "LIT",
+      "TILL",
+      "HILL",
+      "TRILL",
+      "HILT",
+      "THRILL"
+    ],
+    "word" : "HTRILL"
+  },
+  {
+    "rs" : [
+      "HIT",
+      "LILT",
+      "ILL",
+      "RILL",
+      "LIT",
+      "TILL",
+      "HILL",
+      "TRILL",
+      "HILT",
+      "THRILL"
+    ],
+    "word" : "HTRILL"
+  },
+  {
+    "rs" : [
+      "AIM",
+      "GAIN",
+      "GAG",
+      "GANG",
+      "GIG",
+      "MAIN",
+      "GIN",
+      "AGING",
+      "MAN",
+      "GAMING"
+    ],
+    "word" : "AMIGGN"
+  },
+  {
+    "rs" : [
+      "BET",
+      "BUCK",
+      "BUT",
+      "CUBE",
+      "CUB",
+      "CUTE",
+      "CUE",
+      "TUBE",
+      "CUT",
+      "TUCK",
+      "TUB",
+      "BUCKET"
+    ],
+    "word" : "TKBUEC"
+  },
+  {
+    "rs" : [
+      "COT",
+      "CITE",
+      "ICE",
+      "EXIT",
+      "TIC",
+      "OTIC",
+      "TIE",
+      "TOXIC",
+      "TOE",
+      "EXOTIC"
+    ],
+    "word" : "OTXIEC"
+  },
+  {
+    "rs" : [
+      "ILL",
+      "OWL",
+      "LIP",
+      "PILL",
+      "LOP",
+      "POLL",
+      "LOW",
+      "WILL",
+      "OIL",
+      "PILLOW"
+    ],
+    "word" : "OIWLLP"
+  },
+  {
+    "rs" : [
+      "ILL",
+      "OWL",
+      "LIP",
+      "PILL",
+      "LOP",
+      "POLL",
+      "LOW",
+      "WILL",
+      "OIL",
+      "PILLOW"
+    ],
+    "word" : "OIWLLP"
+  },
+  {
+    "rs" : [
+      "FLY",
+      "FLAP",
+      "LAP",
+      "FLAY",
+      "LAY",
+      "PLAY",
+      "PAL",
+      "APPLY",
+      "PAY",
+      "FLAPPY",
+      "PLY"
+    ],
+    "word" : "AFYPPL"
+  },
+  {
+    "rs" : [
+      "BEG",
+      "RUG",
+      "BUG",
+      "GRUB",
+      "BUR",
+      "URGE",
+      "ERR",
+      "RUB",
+      "BURGER",
+      "RUE"
+    ],
+    "word" : "RRBGEU"
+  },
+  {
+    "rs" : [
+      "ALL",
+      "LOAF",
+      "FAR",
+      "ORAL",
+      "FOR",
+      "ROLL",
+      "OAR",
+      "FLORA",
+      "FALL",
+      "FLORAL",
+      "FOAL"
+    ],
+    "word" : "AOFRLL"
+  },
+  {
+    "rs" : [
+      "PIT",
+      "TIP",
+      "PRY",
+      "PUT",
+      "PITY",
+      "RIP",
+      "TRIP",
+      "RUT",
+      "PURITY"
+    ],
+    "word" : "TRPIYU"
+  },
+  {
+    "rs" : [
+      "ERR",
+      "FREE",
+      "FEE",
+      "PEER",
+      "PEE",
+      "REEF",
+      "PER",
+      "REFER",
+      "REP",
+      "PREFER"
+    ],
+    "word" : "FRRPEE"
+  },
+  {
+    "rs" : [
+      "CUE",
+      "CULT",
+      "CUT",
+      "CUTE",
+      "LET",
+      "LUTE",
+      "CELT",
+      "CUTLET",
+      "CLUE"
+    ],
+    "word" : "LTTUEC"
+  },
+  {
+    "rs" : [
+      "NIB",
+      "BOX",
+      "BOXING",
+      "BIO",
+      "BOG",
+      "BINGO",
+      "BIG",
+      "GIN",
+      "ION"
+    ],
+    "word" : "OXBIGN"
+  },
+  {
+    "rs" : [
+      "AGE",
+      "RAG",
+      "ARE",
+      "AREA",
+      "EAR",
+      "GAGE",
+      "EGG",
+      "GEAR",
+      "ERA",
+      "RAGE",
+      "GAG",
+      "GARAGE"
+    ],
+    "word" : "AARGGE"
+  },
+  {
+    "rs" : [
+      "LOW",
+      "WELL",
+      "LYE",
+      "YELL",
+      "OWE",
+      "LOWLY",
+      "OWL",
+      "YELLOW",
+      "WOE"
+    ],
+    "word" : "OYWLLE"
+  },
+  {
+    "rs" : [
+      "HIT",
+      "THIN",
+      "NIT",
+      "TWIN",
+      "TIN",
+      "WHIT",
+      "WIN",
+      "WITH",
+      "WIT",
+      "WITHIN",
+      "HINT"
+    ],
+    "word" : "HTIINW"
+  },
+  {
+    "rs" : [
+      "AID",
+      "AIR",
+      "RAD",
+      "RAW",
+      "RID",
+      "WAR",
+      "ARID",
+      "DRAW",
+      "RAID",
+      "WARD",
+      "WIZARD"
+    ],
+    "word" : "ADIRWZ"
+  },
+  {
+    "rs" : [
+      "NOT",
+      "NUT",
+      "OUT",
+      "TON",
+      "TOT",
+      "TUN",
+      "TOUT",
+      "UNTO",
+      "MOUNT",
+      "MUTTON"
+    ],
+    "word" : "OTTMNU"
+  },
+  {
+    "rs" : [
+      "INN",
+      "IRE",
+      "NEW",
+      "WIN",
+      "NINE",
+      "REIN",
+      "WEIR",
+      "WINE",
+      "WIRE",
+      "WREN",
+      "INNER",
+      "WINNER"
+    ],
+    "word" : "RINNEW"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "FAD",
+      "FED",
+      "ACED",
+      "CAFE",
+      "DEAF",
+      "FACE",
+      "FADE",
+      "FACED",
+      "FACADE"
+    ],
+    "word" : "AAFDEC"
+  },
+  {
+    "rs" : [
+      "DIN",
+      "DON",
+      "ION",
+      "NOD",
+      "NOW",
+      "OWN",
+      "WIN",
+      "WON",
+      "DOWN",
+      "WIND",
+      "WIDOW",
+      "WINDOW"
+    ],
+    "word" : "ODINWW"
+  },
+  {
+    "rs" : [
+      "COT",
+      "SKY",
+      "SOY",
+      "TOY",
+      "COST",
+      "COSY",
+      "COTS",
+      "CYST",
+      "SOCK",
+      "TOYS",
+      "STOCK",
+      "STOCKY"
+    ],
+    "word" : "OTKYSC"
+  },
+  {
+    "rs" : [
+      "INK",
+      "INN",
+      "KIN",
+      "NAP",
+      "NIP",
+      "PAN",
+      "PIN",
+      "AKIN",
+      "PAIN",
+      "PINK",
+      "NAPKIN"
+    ],
+    "word" : "AKINNP"
+  },
+  {
+    "rs" : [
+      "BIG",
+      "BIT",
+      "HIT",
+      "RIB",
+      "RIG",
+      "BRIG",
+      "GIRT",
+      "GRIT",
+      "BIRTH",
+      "GIRTH",
+      "RIGHT",
+      "BRIGHT"
+    ],
+    "word" : "HTRBIG"
+  },
+  {
+    "rs" : [
+      "GET",
+      "HEY",
+      "HIT",
+      "THE",
+      "THY",
+      "TIE",
+      "YET",
+      "THEY",
+      "YETI",
+      "EIGHT",
+      "EIGHTY"
+    ],
+    "word" : "HTYIGE"
+  },
+  {
+    "rs" : [
+      "EGG",
+      "GET",
+      "GNU",
+      "GUN",
+      "GUT",
+      "NET",
+      "NUT",
+      "TEN",
+      "TUG",
+      "TUN",
+      "TUNE"
+    ],
+    "word" : "UTMGGEN"
+  },
+  {
+    "rs" : [
+      "EGG",
+      "NET",
+      "LUNE",
+      "GEL",
+      "NUT",
+      "LUNG",
+      "GET",
+      "TEN",
+      "LUTE",
+      "GNU",
+      "TUG",
+      "TUNE",
+      "GUN",
+      "TUN",
+      "LUNGE",
+      "GUT",
+      "GLUE",
+      "GLUTEN",
+      "LEG",
+      "GLUT",
+      "NUGGET",
+      "LET",
+      "LENT"
+    ],
+    "word" : "LTUGGEN"
+  },
+  {
+    "rs" : [
+      "DIG",
+      "DIN",
+      "DOG",
+      "DON",
+      "GIN",
+      "GOD",
+      "ION",
+      "NOD",
+      "DING",
+      "DOING",
+      "INDIGO"
+    ],
+    "word" : "ODIIGN"
+  },
+  {
+    "rs" : [
+      "DID",
+      "DIE",
+      "ICE",
+      "CEDE",
+      "DEED",
+      "DICE",
+      "DIED",
+      "ICED",
+      "DICED",
+      "DECIDE"
+    ],
+    "word" : "DDIEEC"
+  },
+  {
+    "rs" : [
+      "BUM",
+      "ELM",
+      "EMU",
+      "HEM",
+      "HUB",
+      "HUE",
+      "HUM",
+      "BLUE",
+      "HELM",
+      "MULE",
+      "HUMBLE"
+    ],
+    "word" : "HMBUEL"
+  },
+  {
+    "rs" : [
+      "DIG",
+      "DIN",
+      "DOG",
+      "DON",
+      "GIN",
+      "GOD",
+      "ION",
+      "NOD",
+      "ZIG",
+      "DING",
+      "ZION",
+      "DOING",
+      "DOZING"
+    ],
+    "word" : "ODIGNZ"
+  },
+  {
+    "rs" : [
+      "MAT",
+      "MOO",
+      "OAT",
+      "TAT",
+      "TOO",
+      "TOT",
+      "ATOM",
+      "MOAT",
+      "MOOT",
+      "TOMATO"
+    ],
+    "word" : "AMTTOO"
+  },
+  {
+    "rs" : [
+      "LOG",
+      "OIL",
+      "LOGO",
+      "LOGS",
+      "OILS",
+      "SILO",
+      "SLOG",
+      "SOIL",
+      "SOLO",
+      "IGLOO",
+      "IGLOOS"
+    ],
+    "word" : "OOIGLS"
+  },
+  {
+    "rs" : [
+      "FOE",
+      "FOR",
+      "NOR",
+      "ONE",
+      "ORE",
+      "ROE",
+      "FERN",
+      "FORE",
+      "ZERO",
+      "ZONE",
+      "FROZE",
+      "FROZEN"
+    ],
+    "word" : "OFRNEZ"
+  },
+  {
+    "rs" : [
+      "IRE",
+      "PER",
+      "PIE",
+      "PIP",
+      "REP",
+      "RIP",
+      "ZIP",
+      "PIER",
+      "PIPE",
+      "RIPE",
+      "PIPER",
+      "PRIZE",
+      "ZIPPER"
+    ],
+    "word" : "RIPPEZ"
+  },
+  {
+    "rs" : [
+      "LOP",
+      "ONE",
+      "PEN",
+      "LONE",
+      "LOPE",
+      "NOEL",
+      "OPEN",
+      "POLE",
+      "POLL",
+      "POLLEN"
+    ],
+    "word" : "OPNELL"
+  },
+  {
+    "rs" : [
+      "ICE",
+      "PIE",
+      "PSI",
+      "SEC",
+      "SIP",
+      "EPIC",
+      "PIES",
+      "SPEC",
+      "EPICS",
+      "SPICE",
+      "BICEPS"
+    ],
+    "word" : "SBIPEC"
+  },
+  {
+    "rs" : [
+      "NET",
+      "VIE",
+      "NIT",
+      "TINE",
+      "TEN",
+      "VEIN",
+      "TIE",
+      "VENT",
+      "TIN",
+      "VINE",
+      "VET",
+      "INVITE"
+    ],
+    "word" : "VTIINE"
+  },
+  {
+    "rs" : [
+      "EGG",
+      "GRIN",
+      "GIG",
+      "REIN",
+      "GIN",
+      "RING",
+      "IRE",
+      "REIGN",
+      "RIG",
+      "GINGER"
+    ],
+    "word" : "RIGGEN"
+  },
+  {
+    "rs" : [
+      "GEL",
+      "NTH",
+      "GET",
+      "TEN",
+      "HEN",
+      "THE",
+      "LEG",
+      "LENT",
+      "LET",
+      "THEN",
+      "NET",
+      "LENGTH"
+    ],
+    "word" : "NTHGEL"
+  },
+  {
+    "rs" : [
+      "EYE",
+      "GENE",
+      "GEE",
+      "GREY",
+      "YEN",
+      "GREEN",
+      "GENRE",
+      "ENERGY"
+    ],
+    "word" : "YRGEEN"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "ACNE",
+      "CAN",
+      "CAFE",
+      "FAN",
+      "CANE",
+      "FEN",
+      "CINE",
+      "FIE",
+      "FINE",
+      "FIN",
+      "NICE",
+      "ICE",
+      "FIANCE"
+    ],
+    "word" : "AFINEC"
+  },
+  {
+    "rs" : [
+      "DOE",
+      "TOE",
+      "DOT",
+      "DOTE",
+      "DUE",
+      "DUET",
+      "DUO",
+      "ODE",
+      "OUT",
+      "OUTED",
+      "TED",
+      "TUXEDO"
+    ],
+    "word" : "OTDUEX"
+  },
+  {
+    "rs" : [
+      "OIL",
+      "FLOSS",
+      "FOIL",
+      "FOILS",
+      "LOSS",
+      "SILOS",
+      "OILS",
+      "SOILS",
+      "SILO",
+      "FOSSIL",
+      "SOIL"
+    ],
+    "word" : "OFILSS"
+  },
+  {
+    "rs" : [
+      "PLY",
+      "UPS",
+      "PUP",
+      "PLUS",
+      "PUS",
+      "PULP",
+      "SLY",
+      "PUPS",
+      "SPY",
+      "SUP",
+      "SUPPLY"
+    ],
+    "word" : "YPPULS"
+  },
+  {
+    "rs" : [
+      "DOG",
+      "THO",
+      "DOT",
+      "TOO",
+      "GOD",
+      "GOOD",
+      "GOT",
+      "GOTH",
+      "HOD",
+      "HOOD",
+      "HOG",
+      "HOOT",
+      "HOT",
+      "HOTDDOG"
+    ],
+    "word" : "OOTDDHG"
+  },
+  {
+    "rs" : [
+      "ALE",
+      "LAME",
+      "ELF",
+      "LEAF",
+      "ELM",
+      "MALE",
+      "LAM",
+      "MEAL",
+      "LEA",
+      "FLAME",
+      "FAME",
+      "AFLAME",
+      "FLEA"
+    ],
+    "word" : "AAMFLE"
+  },
+  {
+    "rs" : [
+      "ALE",
+      "FAME",
+      "MAKE",
+      "ELF",
+      "FLAK",
+      "MALE",
+      "ELK",
+      "FLEA",
+      "MEAL",
+      "ELM",
+      "KALE",
+      "FLAKE",
+      "LAM",
+      "LAKE",
+      "FLAME",
+      "LEA",
+      "LAME",
+      "AFLAME",
+      "LEAF",
+      "FAKE",
+      "LEAK"
+    ],
+    "word" : "AAFMKLE"
+  },
+  {
+    "rs" : [
+      "ORE",
+      "ROE",
+      "ROSE",
+      "SEC",
+      "SORE",
+      "CORE",
+      "CORES",
+      "EROS",
+      "SCORE",
+      "ORES",
+      "SOCCER"
+    ],
+    "word" : "OCCRES"
+  },
+  {
+    "rs" : [
+      "FIG",
+      "HILT",
+      "FIT",
+      "LIFT",
+      "HIT",
+      "FIGHT",
+      "LIT",
+      "FILTH",
+      "FLIT",
+      "LIGHT",
+      "GIFT",
+      "FLIGHT",
+      "GILT"
+    ],
+    "word" : "HFTIGL"
+  },
+  {
+    "rs" : [
+      "PER",
+      "PREP",
+      "PUP",
+      "PULP",
+      "REP",
+      "PURE",
+      "RUE",
+      "RULE",
+      "LURE",
+      "UPPER",
+      "PERU",
+      "PURPLE"
+    ],
+    "word" : "RPPUEL"
+  },
+  {
+    "rs" : [
+      "BET",
+      "BLUE",
+      "BUT",
+      "BULL",
+      "LET",
+      "LUTE",
+      "TUB",
+      "TELL",
+      "BELL",
+      "TUBE",
+      "BELT",
+      "BULLET"
+    ],
+    "word" : "TBUELL"
+  },
+  {
+    "rs" : [
+      "DEN",
+      "HIE",
+      "DID",
+      "DIED",
+      "DINE",
+      "DIN",
+      "HIDE",
+      "END",
+      "HIND",
+      "HEN",
+      "DINED",
+      "HID",
+      "HIDDEN"
+    ],
+    "word" : "HDDINE"
+  },
+  {
+    "rs" : [
+      "REV",
+      "RUE",
+      "RYE",
+      "SUE",
+      "SURE",
+      "USE",
+      "USER",
+      "YES",
+      "VERY",
+      "REVS",
+      "SURVEY"
+    ],
+    "word" : "VRYUES"
+  },
+  {
+    "rs" : [
+      "OAR",
+      "SOAR",
+      "RAY",
+      "VARY",
+      "SAY",
+      "OVARY",
+      "SOY",
+      "SAVOR",
+      "OARS",
+      "SAVOY",
+      "RAYS",
+      "SAVORY",
+      "ROSY"
+    ],
+    "word" : "OARYVS"
+  },
+  {
+    "rs" : [
+      "DEN",
+      "FEED",
+      "END",
+      "FEND",
+      "FED",
+      "NEED",
+      "FEE",
+      "ENDED",
+      "FEN",
+      "DEFEND",
+      "DEED",
+      "EDEN"
+    ],
+    "word" : "FDDNEE"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "ALE",
+      "LACE",
+      "CAN",
+      "LANE",
+      "LEA",
+      "LEAN",
+      "CANE",
+      "ACNE",
+      "CLEAN",
+      "CLAN",
+      "CANCEL"
+    ],
+    "word" : "ALNECC"
+  },
+  {
+    "rs" : [
+      "EVE",
+      "MORE",
+      "ORE",
+      "MOVE",
+      "REV",
+      "OVER",
+      "ROE",
+      "ROME",
+      "ROM",
+      "ROVE",
+      "EVER",
+      "MOVER",
+      "MERE",
+      "REMOVE"
+    ],
+    "word" : "VMOREE"
+  },
+  {
+    "rs" : [
+      "DIG",
+      "GRIN",
+      "DIN",
+      "RIND",
+      "GIN",
+      "RING",
+      "RID",
+      "GRIND",
+      "RIG",
+      "RIGID",
+      "DING",
+      "RIDING",
+      "GRID"
+    ],
+    "word" : "DIIGRN"
+  },
+  {
+    "rs" : [
+      "ELK",
+      "LYE",
+      "ILK",
+      "KILL",
+      "ILL",
+      "LIKE",
+      "KEY",
+      "LILY",
+      "YELL",
+      "LIE",
+      "LIKELY"
+    ],
+    "word" : "KYIELL"
+  },
+  {
+    "rs" : [
+      "AWE",
+      "WANE",
+      "KEN",
+      "WEAK",
+      "NEW",
+      "WEAN",
+      "WAN",
+      "AWAKE",
+      "ANEW",
+      "WAKEN",
+      "KNEW",
+      "AWAKEN",
+      "WAKE"
+    ],
+    "word" : "AAKWNE"
+  },
+  {
+    "rs" : [
+      "DOT",
+      "DUST",
+      "DUO",
+      "OUST",
+      "ITS",
+      "OUT",
+      "STUD",
+      "SIT",
+      "SUIT",
+      "SOD",
+      "STUDIO",
+      "DOTS"
+    ],
+    "word" : "OTDIUS"
+  },
+  {
+    "rs" : [
+      "BUN",
+      "RUN",
+      "BUR",
+      "URN",
+      "CUB",
+      "BURN",
+      "CUR",
+      "CURB",
+      "HUB",
+      "BUNCH",
+      "NUB",
+      "CHURN",
+      "RUB",
+      "BRUNCH"
+    ],
+    "word" : "HRBUNC"
+  },
+  {
+    "rs" : [
+      "INK",
+      "TIN",
+      "KEN",
+      "KITE",
+      "KIN",
+      "KNIT",
+      "KIT",
+      "TENT",
+      "NET",
+      "TINE",
+      "NIT",
+      "TINT",
+      "TEN",
+      "KITTEN",
+      "TIE"
+    ],
+    "word" : "TTKINE"
+  },
+  {
+    "rs" : [
+      "AIL",
+      "MIL",
+      "AIM",
+      "YAM",
+      "FLY",
+      "FAIL",
+      "LAM",
+      "FILM",
+      "LAY",
+      "MAIL",
+      "MAY",
+      "FAMILY"
+    ],
+    "word" : "AMYIFL"
+  },
+  {
+    "rs" : [
+      "TEE",
+      "EDEN",
+      "EXTEND",
+      "NET",
+      "DEN",
+      "NEED",
+      "NEXT",
+      "TEN",
+      "TEEN",
+      "TED",
+      "DENT",
+      "END",
+      "TEND"
+    ],
+    "word" : "TDNEEX"
+  },
+  {
+    "rs" : [
+      "DIG",
+      "GRID",
+      "DIN",
+      "GRIN",
+      "DRY",
+      "RIND",
+      "GIN",
+      "RING",
+      "RID",
+      "DYING",
+      "RIG",
+      "GRIND",
+      "DING",
+      "DRYING"
+    ],
+    "word" : "YDIGRN"
+  },
+  {
+    "rs" : [
+      "DEN",
+      "ODE",
+      "DOE",
+      "ONE",
+      "DON",
+      "ORE",
+      "END",
+      "RED",
+      "ROD",
+      "MEN",
+      "ROE",
+      "NOD",
+      "ROM",
+      "NOR",
+      "MODERN"
+    ],
+    "word" : "OMDRNE"
+  },
+  {
+    "rs" : [
+      "DEN",
+      "ORE",
+      "NODE",
+      "DOE",
+      "RED",
+      "NORM",
+      "DON",
+      "ROD",
+      "OMEN",
+      "END",
+      "ROE",
+      "REDO",
+      "ROM",
+      "REND",
+      "MEN",
+      "DOME",
+      "RODE",
+      "NOD",
+      "MEND",
+      "DEMON",
+      "NOR",
+      "MODE",
+      "MODERN",
+      "ODE",
+      "MORE",
+      "NORMED",
+      "ONE",
+      "NERD"
+    ],
+    "word" : "OMDRNE"
+  },
+  {
+    "rs" : [
+      "INK",
+      "INN",
+      "INKY",
+      "INNS",
+      "KIN",
+      "SIN",
+      "SINK",
+      "SKI",
+      "SKIN",
+      "SKY",
+      "SKINNY"
+    ],
+    "word" : "KINNSY"
+  },
+  {
+    "rs" : [
+      "HIM",
+      "CITY",
+      "HIT",
+      "ITCH",
+      "ICY",
+      "MYTH",
+      "THY",
+      "ITCHY",
+      "TIC",
+      "MYTHIC",
+      "CHIT"
+    ],
+    "word" : "HMTIYC"
+  },
+  {
+    "rs" : [
+      "DUO",
+      "LUSH",
+      "HOD",
+      "OLDS",
+      "OLD",
+      "SOLD",
+      "SOD",
+      "SOUL",
+      "HOLDS",
+      "HOLD",
+      "SHOULD",
+      "LOUD"
+    ],
+    "word" : "OHDULS"
+  },
+  {
+    "rs" : [
+      "INN",
+      "TOO",
+      "ION",
+      "INTO",
+      "NIT",
+      "NOON",
+      "NOT",
+      "ONTO",
+      "TIN",
+      "ONION",
+      "TON",
+      "NOTION"
+    ],
+    "word" : "OOTINN"
+  },
+  {
+    "rs" : [
+      "COT",
+      "CORK",
+      "ORE",
+      "RECK",
+      "RET",
+      "ROCK",
+      "ROE",
+      "ROTE",
+      "ROT",
+      "TORE",
+      "TOE",
+      "TREK",
+      "COKE",
+      "ROCKET",
+      "CORE"
+    ],
+    "word" : "OTRKEC"
+  },
+  {
+    "rs" : [
+      "ALE",
+      "LEAP",
+      "APE",
+      "PALE",
+      "LAP",
+      "PEAL",
+      "LEA",
+      "PLEA",
+      "PAL",
+      "APPLE",
+      "PEA",
+      "APPEAL",
+      "PEP"
+    ],
+    "word" : "AAPPLE"
+  },
+  {
+    "rs" : [
+      "FIGURE",
+      "RUG",
+      "GRIEF",
+      "FIG",
+      "FIRE",
+      "FUR",
+      "RUE",
+      "IRE",
+      "FIE",
+      "RIG",
+      "FIR",
+      "URGE"
+    ],
+    "word" : "FRIUEG"
+  },
+  {
+    "rs" : [
+      "MEET",
+      "TEE",
+      "MET",
+      "ELM",
+      "HELMET",
+      "THEM",
+      "HEEL",
+      "MELT",
+      "THEME",
+      "THE",
+      "LET",
+      "EEL",
+      "HELM",
+      "LEE"
+    ],
+    "word" : "HMTEEL"
+  },
+  {
+    "rs" : [
+      "GIN",
+      "KING",
+      "INK",
+      "KIN",
+      "SING",
+      "SIN",
+      "SINK",
+      "SKI",
+      "SKIN",
+      "KINGS",
+      "SKIING"
+    ],
+    "word" : "SKIING"
+  },
+  {
+    "rs" : [
+      "HOP",
+      "THY",
+      "HOT",
+      "TOP",
+      "OPT",
+      "TOY",
+      "POT",
+      "TRY",
+      "PRO",
+      "HYPO",
+      "PRY",
+      "PORT",
+      "ROT",
+      "TROPHY",
+      "THO"
+    ],
+    "word" : "HOTPYR"
+  },
+  {
+    "rs" : [
+      "AGE",
+      "SAGE",
+      "GAS",
+      "SAVE",
+      "SAG",
+      "VASE",
+      "SEA",
+      "AGAVE",
+      "AGES",
+      "GAVE",
+      "SAVAGE",
+      "SAGA"
+    ],
+    "word" : "AAVGES"
+  },
+  {
+    "rs" : [
+      "AWL",
+      "ALE",
+      "WAFFLE",
+      "WEAL",
+      "AWE",
+      "LEA",
+      "LEAF",
+      "ELF",
+      "FLEA",
+      "FLAM",
+      "FEW",
+      "LAW",
+      "FLEW"
+    ],
+    "word" : "AFFMWLE"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "FIB",
+      "ARC",
+      "FIR",
+      "BAR",
+      "RIB",
+      "BRA",
+      "CRAB",
+      "CAB",
+      "CRIB",
+      "CAR",
+      "FAIR",
+      "FAR",
+      "FABRIC"
+    ],
+    "word" : "AFRIBC"
+  },
+  {
+    "rs" : [
+      "DOE",
+      "DECO",
+      "DYE",
+      "DEMO",
+      "ODE",
+      "DOME",
+      "CODE",
+      "MODE",
+      "COED",
+      "COME",
+      "COMEDY"
+    ],
+    "word" : "OMDDYEC"
+  },
+  {
+    "rs" : [
+      "GAS",
+      "WIG",
+      "JAG",
+      "JAWS",
+      "JAW",
+      "JIGS",
+      "JIG",
+      "SWAG",
+      "SAG",
+      "SWIG",
+      "SAW",
+      "WAGS",
+      "WAG",
+      "WIGS",
+      "WAS",
+      "JIGSAW"
+    ],
+    "word" : "AJWGSI"
+  },
+  {
+    "rs" : [
+      "BALL",
+      "LADY",
+      "BALD",
+      "ABLY",
+      "BALDLY",
+      "LAD",
+      "DAB",
+      "DAY",
+      "LAB",
+      "BADLY",
+      "LAY",
+      "BAD",
+      "DALLY",
+      "ALL"
+    ],
+    "word" : "AYBDLL"
+  },
+  {
+    "rs" : [
+      "ANT",
+      "TAN",
+      "FAN",
+      "TIN",
+      "FAT",
+      "ANTI",
+      "FIN",
+      "FAIN",
+      "FIT",
+      "FIAT",
+      "INN",
+      "FAINT",
+      "NIT",
+      "INFANT"
+    ],
+    "word" : "ATFINN"
+  },
+  {
+    "rs" : [
+      "DRY",
+      "RUTS",
+      "RUT",
+      "STUD",
+      "TRY",
+      "DUSTY",
+      "DUST",
+      "RUSTY",
+      "DUTY",
+      "STUDY",
+      "RUST",
+      "STURDY"
+    ],
+    "word" : "TDRYUS"
+  },
+  {
+    "rs" : [
+      "COP",
+      "COKE",
+      "COT",
+      "COPE",
+      "OPT",
+      "KEPT",
+      "PET",
+      "PECK",
+      "POT",
+      "POET",
+      "TOE",
+      "POKE",
+      "TOP",
+      "POCKET"
+    ],
+    "word" : "OTKPEC"
+  },
+  {
+    "rs" : [
+      "ARE",
+      "HAT",
+      "ART",
+      "HER",
+      "ATE",
+      "RAT",
+      "EAR",
+      "RET",
+      "EAT",
+      "TAR",
+      "ERA",
+      "TEA",
+      "FAR",
+      "THE",
+      "FAT",
+      "FATHER"
+    ],
+    "word" : "AHRTFE"
+  },
+  {
+    "rs" : [
+      "ARE",
+      "RET",
+      "HATE",
+      "ART",
+      "TAR",
+      "HEAR",
+      "ATE",
+      "TEA",
+      "HEAT",
+      "EAR",
+      "THE",
+      "RAFT",
+      "EAT",
+      "FARE",
+      "RATE",
+      "ERA",
+      "FATE",
+      "TEAR",
+      "FAR",
+      "FEAR",
+      "AFTER",
+      "FAT",
+      "FEAT",
+      "EARTH",
+      "HAT",
+      "FRET",
+      "HATER",
+      "HER",
+      "HAFT",
+      "FATHER",
+      "RAT",
+      "HARE"
+    ],
+    "word" : "ATRHFE"
+  },
+  {
+    "rs" : [
+      "ANT",
+      "AUNT",
+      "AWL",
+      "LAWN",
+      "LAW",
+      "LUNA",
+      "NUT",
+      "TUNA",
+      "TAN",
+      "WANT",
+      "TUN",
+      "WALNUT",
+      "WAN"
+    ],
+    "word" : "ATWNUL"
+  },
+  {
+    "rs" : [
+      "ERR",
+      "FORE",
+      "FOE",
+      "FORM",
+      "FOR",
+      "FROM",
+      "ORE",
+      "MORE",
+      "REM",
+      "ROME",
+      "ROE",
+      "FORMER",
+      "ROM",
+      "REFORM"
+    ],
+    "word" : "OFRRME"
+  },
+  {
+    "rs" : [
+      "GIN",
+      "KING",
+      "HIT",
+      "KNIT",
+      "INK",
+      "THIN",
+      "KIN",
+      "NIGHT",
+      "KIT",
+      "THING",
+      "NIT",
+      "THINK",
+      "TIN",
+      "KNIGHT",
+      "HINT"
+    ],
+    "word" : "HTKIGN"
+  },
+  {
+    "rs" : [
+      "PER",
+      "YET",
+      "PET",
+      "PREY",
+      "PRY",
+      "PYRE",
+      "REP",
+      "TYPE",
+      "RET",
+      "PETTY",
+      "RYE",
+      "TRY",
+      "PRETTY"
+    ],
+    "word" : "TTRPYE"
+  },
+  {
+    "rs" : [
+      "FUR",
+      "RUFF",
+      "RUE",
+      "SUE",
+      "SURE",
+      "USE",
+      "SURF",
+      "FURS",
+      "USER",
+      "FUSE",
+      "RUFFS",
+      "SUFFER"
+    ],
+    "word" : "FFRUES"
+  },
+  {
+    "rs" : [
+      "BET",
+      "BUTT",
+      "BUR",
+      "TRUE",
+      "BUT",
+      "TUBE",
+      "RET",
+      "BRUTE",
+      "RUB",
+      "TUBER",
+      "RUE",
+      "UTTER",
+      "RUT",
+      "BUTTER",
+      "TUB"
+    ],
+    "word" : "TTRBUE"
+  },
+  {
+    "rs" : [
+      "BET",
+      "BLOT",
+      "LET",
+      "BOLT",
+      "LOB",
+      "LOBE",
+      "LOT",
+      "TOE",
+      "TOTE",
+      "TOT",
+      "BOTTLE",
+      "BELT"
+    ],
+    "word" : "OTTBEL"
+  },
+  {
+    "rs" : [
+      "LOT",
+      "SORT",
+      "ROT",
+      "TOLL",
+      "LOST",
+      "ROLLS",
+      "LOTS",
+      "TOLLS",
+      "ROLL",
+      "TROLL",
+      "STROLL",
+      "SLOT",
+      "TROLLS"
+    ],
+    "word" : "OTRLLS"
+  },
+  {
+    "rs" : [
+      "HIT",
+      "WHIT",
+      "TIE",
+      "WHET",
+      "GET",
+      "WHITE",
+      "EIGHT",
+      "THE",
+      "WITH",
+      "WET",
+      "WIG",
+      "WEIGHT",
+      "HEW"
+    ],
+    "word" : "IENWWTGH"
+  },
+  {
+    "rs" : [
+      "FIE",
+      "FIRE",
+      "FIR",
+      "FIVE",
+      "FRY",
+      "RIFE",
+      "IRE",
+      "VERY",
+      "IVY",
+      "REV",
+      "FIERY",
+      "RYE",
+      "VERIFY",
+      "VIE"
+    ],
+    "word" : "VFRIYE"
+  },
+  {
+    "rs" : [
+      "BAY",
+      "BAYS",
+      "BUS",
+      "BUSY",
+      "BUY",
+      "BUYS",
+      "SAW",
+      "SWAB",
+      "SAY",
+      "SWAY",
+      "SUB",
+      "WAYS",
+      "WAS",
+      "SUBWAY",
+      "WAY"
+    ],
+    "word" : "AYBUSW"
+  },
+  {
+    "rs" : [
+      "GOT",
+      "TUG",
+      "GUT",
+      "GOTH",
+      "HOG",
+      "GOUT",
+      "HOT",
+      "THOU",
+      "HUG",
+      "THUG",
+      "HUT",
+      "OUGHT",
+      "OUT",
+      "TOUGH",
+      "THO",
+      "THOUGH"
+    ],
+    "word" : "OTHHGU"
+  },
+  {
+    "rs" : [
+      "ARC",
+      "ARCH",
+      "BAN",
+      "BARN",
+      "BAR",
+      "BRAN",
+      "BRA",
+      "CHAR",
+      "CAB",
+      "CRAB",
+      "CAN",
+      "RANCH",
+      "CAR",
+      "BRANCH",
+      "RAN"
+    ],
+    "word" : "AHRBNC"
+  },
+  {
+    "rs" : [
+      "MEN",
+      "TIN",
+      "TENT",
+      "MET",
+      "EMIT",
+      "TIME",
+      "NET",
+      "ITEM",
+      "TINE",
+      "NIT",
+      "MINE",
+      "TINT",
+      "TEN",
+      "MINT",
+      "MITTEN",
+      "TIE",
+      "MITE"
+    ],
+    "word" : "MTTINE"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "RIB",
+      "ART",
+      "TAB",
+      "BAR",
+      "TAR",
+      "BAT",
+      "BAIT",
+      "BIT",
+      "BARB",
+      "BRA",
+      "BRAT",
+      "RAT",
+      "RABBIT"
+    ],
+    "word" : "ATRIBB"
+  },
+  {
+    "rs" : [
+      "BAG",
+      "NAG",
+      "BAN",
+      "AKIN",
+      "BIG",
+      "BANG",
+      "BIN",
+      "BANK",
+      "GIN",
+      "GAIN",
+      "INK",
+      "KING",
+      "KIN",
+      "BAKING"
+    ],
+    "word" : "AKBGNI"
+  },
+  {
+    "rs" : [
+      "ASH",
+      "SCAN",
+      "CAN",
+      "SIN",
+      "SHIN",
+      "HAS",
+      "CANS",
+      "CHAIN",
+      "HIS",
+      "CASH",
+      "CHINA",
+      "CHIN",
+      "SAC",
+      "INCH",
+      "CHAINS"
+    ],
+    "word" : "AHINSC"
+  },
+  {
+    "rs" : [
+      "ANT",
+      "ANTI",
+      "NIT",
+      "TWIN",
+      "TAN",
+      "WAIT",
+      "TIN",
+      "WANT",
+      "WAN",
+      "AWAIT",
+      "WIN",
+      "TAIWAN",
+      "WIT"
+    ],
+    "word" : "AATINW"
+  },
+  {
+    "rs" : [
+      "BET",
+      "BITE",
+      "BIT",
+      "RITE",
+      "IRE",
+      "TIER",
+      "RET",
+      "TIRE",
+      "RIB",
+      "TRIBE",
+      "TIE",
+      "TRITE",
+      "BIER",
+      "BITTER"
+    ],
+    "word" : "TTRBIE"
+  },
+  {
+    "rs" : [
+      "SAD",
+      "SAND",
+      "AND",
+      "SAP",
+      "SNAP",
+      "ASP",
+      "SPAN",
+      "NAP",
+      "NAPS",
+      "PANDA",
+      "PAD",
+      "PADS",
+      "PANDAS",
+      "PAN",
+      "PANS"
+    ],
+    "word" : "AADPNS"
+  },
+  {
+    "rs" : [
+      "HIS",
+      "SIRS",
+      "HIT",
+      "SITS",
+      "ITS",
+      "STIR",
+      "SIR",
+      "THIS",
+      "SIT",
+      "SHIRT",
+      "HISS",
+      "STIRS",
+      "HITS",
+      "SHIRTS"
+    ],
+    "word" : "HTRISS"
+  },
+  {
+    "rs" : [
+      "DIE",
+      "ICED",
+      "DIP",
+      "PECK",
+      "ICE",
+      "PICK",
+      "KID",
+      "PIED",
+      "PIE",
+      "PIKE",
+      "DECK",
+      "PIKED",
+      "DICE",
+      "PICKED",
+      "EPIC"
+    ],
+    "word" : "KDIPEC"
+  },
+  {
+    "rs" : [
+      "HOT",
+      "MOST",
+      "MOO",
+      "MOTH",
+      "TOO",
+      "SHOT",
+      "HOOT",
+      "SOOT",
+      "HOST",
+      "HOOTS",
+      "HOTS",
+      "MOTHS",
+      "MOOT",
+      "SHOOT"
+    ],
+    "word" : "HOOTMS"
+  },
+  {
+    "rs" : [
+      "ANT",
+      "VAT",
+      "ANY",
+      "VIA",
+      "IVY",
+      "ANTI",
+      "NAY",
+      "NAVY",
+      "NIT",
+      "TINY",
+      "TAN",
+      "VAIN",
+      "TIN",
+      "VANITY",
+      "VAN"
+    ],
+    "word" : "ATVYNI"
+  },
+  {
+    "rs" : [
+      "ACT",
+      "OAR",
+      "COAT",
+      "ARC",
+      "OAT",
+      "ROAR",
+      "ART",
+      "RAT",
+      "TACO",
+      "CAR",
+      "ROT",
+      "ACTOR",
+      "CAT",
+      "TAR",
+      "CARROT",
+      "COT",
+      "CART"
+    ],
+    "word" : "ATORRC"
+  },
+  {
+    "rs" : [
+      "DID",
+      "LIE",
+      "LIME",
+      "DIE",
+      "MIL",
+      "MILD",
+      "ELM",
+      "DIED",
+      "MILE",
+      "LED",
+      "DIME",
+      "IDLED",
+      "LID",
+      "IDLE",
+      "MIDDLE"
+    ],
+    "word" : "MDDILE"
+  },
+  {
+    "rs" : [
+      "EVE",
+      "VIEW",
+      "IRE",
+      "WEIR",
+      "REV",
+      "WERE",
+      "VIE",
+      "WIRE",
+      "EVER",
+      "REVIEW",
+      "VIEWER"
+    ],
+    "word" : "VRIWEE"
+  },
+  {
+    "rs" : [
+      "BIN",
+      "RIB",
+      "BIO",
+      "ROB",
+      "BOB",
+      "BORN",
+      "ION",
+      "IRON",
+      "NOR",
+      "ORB",
+      "RIBBON"
+    ],
+    "word" : "ORRBBIN"
+  },
+  {
+    "rs" : [
+      "AGE",
+      "MAP",
+      "MAGE",
+      "PEA",
+      "MEGA",
+      "AMP",
+      "PEG",
+      "PAGE",
+      "APE",
+      "PIE",
+      "IMAGE",
+      "GAP",
+      "PIG",
+      "MAGPIE",
+      "GEM",
+      "GAME",
+      "IMP",
+      "GAPE"
+    ],
+    "word" : "AAMPGEI"
+  },
+  {
+    "rs" : [
+      "FOR",
+      "FORM",
+      "SURF",
+      "FUR",
+      "FOUR",
+      "FORMS",
+      "OUR",
+      "FROM",
+      "FORUM",
+      "ROM",
+      "FURS",
+      "FOURS",
+      "RUM",
+      "OURS",
+      "FORUMS",
+      "SUM",
+      "SOUR"
+    ],
+    "word" : "OFRMUS"
+  },
+  {
+    "rs" : [
+      "INNS",
+      "NUN",
+      "UNIONS",
+      "UNION",
+      "UNISON",
+      "NUNS",
+      "NOUN",
+      "ION",
+      "SUN",
+      "SIN",
+      "INN",
+      "NOUNS",
+      "SON"
+    ],
+    "word" : "OINNSU"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "TAG",
+      "ART",
+      "TAR",
+      "CUT",
+      "TUG",
+      "RAG",
+      "GAIT",
+      "RAT",
+      "GIRT",
+      "RIG",
+      "GRIT",
+      "RUG",
+      "GUITAR",
+      "RUT"
+    ],
+    "word" : "IRATGCU"
+  },
+  {
+    "rs" : [
+      "DEN",
+      "KEY",
+      "NODE",
+      "DOE",
+      "NOD",
+      "YOKE",
+      "DON",
+      "ODE",
+      "DOYEN",
+      "DYE",
+      "ONE",
+      "END",
+      "YEN",
+      "DONKEY",
+      "DENY",
+      "KEN",
+      "DONE"
+    ],
+    "word" : "ODKNEY"
+  },
+  {
+    "rs" : [
+      "HIM",
+      "SIR",
+      "HIP",
+      "HIPS",
+      "HIS",
+      "IMP",
+      "PSI",
+      "RIPS",
+      "RIM",
+      "SHIP",
+      "RIP",
+      "PRISM",
+      "SIP",
+      "SHRIMP"
+    ],
+    "word" : "HMRIPS"
+  },
+  {
+    "rs" : [
+      "BUN",
+      "TOT",
+      "BUT",
+      "TUB",
+      "NOT",
+      "TUN",
+      "NUB",
+      "BOUT",
+      "NUT",
+      "TOUT",
+      "OUT",
+      "UNTO",
+      "TON",
+      "BUTTON"
+    ],
+    "word" : "OTTBUN"
+  },
+  {
+    "rs" : [
+      "ARE",
+      "MAR",
+      "MARE",
+      "ARM",
+      "RAM",
+      "RARE",
+      "EAR",
+      "FAME",
+      "REAM",
+      "ERA",
+      "FARE",
+      "REAR",
+      "ERR",
+      "FARM",
+      "FRAME",
+      "FAR",
+      "FEAR",
+      "FARMER"
+    ],
+    "word" : "AMRRFE"
+  },
+  {
+    "rs" : [
+      "ICE",
+      "PIN",
+      "LINE",
+      "LIE",
+      "CEIL",
+      "NICE",
+      "LIP",
+      "CINE",
+      "PILE",
+      "NIL",
+      "CLIP",
+      "PINE",
+      "NIP",
+      "EPIC",
+      "PENCIL",
+      "PEN",
+      "LICE",
+      "PIE",
+      "LIEN"
+    ],
+    "word" : "NLIPEC"
+  },
+  {
+    "rs" : [
+      "DOE",
+      "MODE",
+      "ODE",
+      "SOD",
+      "SOME",
+      "DEMO",
+      "DEMOS",
+      "DESK",
+      "DOMES",
+      "DOES",
+      "MODES",
+      "DOME",
+      "SMOKE",
+      "DOSE",
+      "SMOKED"
+    ],
+    "word" : "OMDKES"
+  },
+  {
+    "rs" : [
+      "ROB",
+      "FOE",
+      "ORE",
+      "REEF",
+      "ROE",
+      "BEEF",
+      "FOR",
+      "BEER",
+      "BEE",
+      "FORE",
+      "FEE",
+      "FREE",
+      "BEFORE",
+      "BORE",
+      "ROBE",
+      "FOB",
+      "ORB"
+    ],
+    "word" : "OFRBEE"
+  },
+  {
+    "rs" : [
+      "RAG",
+      "BRA",
+      "BAR",
+      "GAB",
+      "BIG",
+      "AIR",
+      "GAR",
+      "BRIG",
+      "RIG",
+      "RIB",
+      "AIRBAG",
+      "GRAB",
+      "ARIA",
+      "BAG",
+      "BRAG",
+      "GARB"
+    ],
+    "word" : "AARIBG"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "RUN",
+      "FAN",
+      "URN",
+      "FAR",
+      "FAIR",
+      "FIN",
+      "IRAN",
+      "FIR",
+      "RAIN",
+      "FUN",
+      "RUIN",
+      "FUR",
+      "INFRA",
+      "RAN",
+      "UNFAIR"
+    ],
+    "word" : "AFRIUN"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "ACRE",
+      "LACE",
+      "ALE",
+      "BALE",
+      "BEACH",
+      "CAB",
+      "BLA",
+      "BELCH",
+      "LAB",
+      "EACH",
+      "CABLE",
+      "LEA",
+      "HALE",
+      "LEACH",
+      "ABLE",
+      "HEAL",
+      "BLEACH"
+    ],
+    "word" : "RAEBCLH"
+  },
+  {
+    "rs" : [
+      "BAM",
+      "LAY",
+      "CLAM",
+      "BAY",
+      "MAY",
+      "CLAY",
+      "CAB",
+      "YAM",
+      "LACY",
+      "CAY",
+      "ABLY",
+      "LAMB",
+      "LAB",
+      "BALM",
+      "CYMBAL",
+      "LAM",
+      "CALM"
+    ],
+    "word" : "AMYBLC"
+  },
+  {
+    "rs" : [
+      "MET",
+      "PEER",
+      "PER",
+      "PERM",
+      "PET",
+      "TEMP",
+      "REP",
+      "TERM",
+      "RET",
+      "TREE",
+      "TEE",
+      "METER",
+      "MEET",
+      "TEMPER",
+      "MERE"
+    ],
+    "word" : "MTPREE"
+  },
+  {
+    "rs" : [
+      "DOE",
+      "DOPE",
+      "DOPES",
+      "ODE",
+      "DOSE",
+      "POKES",
+      "SOD",
+      "POOS",
+      "POSED",
+      "SOP",
+      "POKE",
+      "SPOKE",
+      "DESK",
+      "POSE",
+      "SPOKED",
+      "DOES",
+      "SPED"
+    ],
+    "word" : "OODPKES"
+  },
+  {
+    "rs" : [
+      "BEE",
+      "BILE",
+      "EEL",
+      "FEEL",
+      "ELF",
+      "FILE",
+      "FEE",
+      "FLEE",
+      "FIE",
+      "LIFE",
+      "LIE",
+      "BELIEF",
+      "BEEF"
+    ],
+    "word" : "FBIEEL"
+  },
+  {
+    "rs" : [
+      "ALE",
+      "LEA",
+      "LAME",
+      "EEL",
+      "LEE",
+      "LEAF",
+      "ELF",
+      "FAME",
+      "MALE",
+      "ELM",
+      "FEEL",
+      "MEAL",
+      "FEE",
+      "FLEA",
+      "FLAME",
+      "LAM",
+      "FLEE",
+      "FEMALE"
+    ],
+    "word" : "AMFLEE"
+  },
+  {
+    "rs" : [
+      "NOR",
+      "WAR",
+      "NOW",
+      "WON",
+      "OAR",
+      "ROAN",
+      "OWN",
+      "ROAR",
+      "RAN",
+      "WARN",
+      "RAW",
+      "WORN",
+      "ROW",
+      "ARROW",
+      "WAN",
+      "NARROW"
+    ],
+    "word" : "OARRWN"
+  },
+  {
+    "rs" : [
+      "DEN",
+      "NEED",
+      "END",
+      "NERD",
+      "GEE",
+      "REED",
+      "RED",
+      "REND",
+      "DEER",
+      "GENRE",
+      "EDEN",
+      "GREEN",
+      "GENE",
+      "GENDER"
+    ],
+    "word" : "DRNEEG"
+  },
+  {
+    "rs" : [
+      "COT",
+      "MOST",
+      "CUT",
+      "MUST",
+      "OUT",
+      "SUM",
+      "SCUM",
+      "COST",
+      "SCOUT",
+      "COTS",
+      "CUSTOM",
+      "CUTS"
+    ],
+    "word" : "OTMUSC"
+  },
+  {
+    "rs" : [
+      "GOL",
+      "PIE",
+      "EPIC",
+      "COP",
+      "CEIL",
+      "LICE",
+      "ICE",
+      "CLIP",
+      "LOPE",
+      "LIE",
+      "CLOP",
+      "PILE",
+      "LIP",
+      "COIL",
+      "POLE",
+      "LOP",
+      "COLE",
+      "POLICE",
+      "OIL",
+      "COPE"
+    ],
+    "word" : "IEOGCPL"
+  },
+  {
+    "rs" : [
+      "BEE",
+      "EELS",
+      "BEEPS",
+      "EEL",
+      "ELSE",
+      "BLEEP",
+      "PEE",
+      "LEES",
+      "PEELS",
+      "SEE",
+      "PEEL",
+      "SLEEP",
+      "BEEP",
+      "PEES",
+      "BLEEPS",
+      "BEES",
+      "SEEP"
+    ],
+    "word" : "SBPEEL"
+  },
+  {
+    "rs" : [
+      "AID",
+      "LAY",
+      "LACY",
+      "AIL",
+      "LID",
+      "LADY",
+      "CAY",
+      "ACID",
+      "LAID",
+      "DAL",
+      "CLAD",
+      "DAILY",
+      "DAY",
+      "CLAY",
+      "ACIDLY",
+      "ICY",
+      "DIAL",
+      "LAD",
+      "IDLY"
+    ],
+    "word" : "ADIYLC"
+  },
+  {
+    "rs" : [
+      "ICE",
+      "MICE",
+      "RIME",
+      "IRE",
+      "MINE",
+      "CRIME",
+      "MEN",
+      "MIRE",
+      "MINCE",
+      "REM",
+      "NICE",
+      "MINER",
+      "RIM",
+      "REIN",
+      "NICER",
+      "CINE",
+      "RICE",
+      "MINCER"
+    ],
+    "word" : "MRINEC"
+  },
+  {
+    "rs" : [
+      "ION",
+      "POT",
+      "ONTO",
+      "NIP",
+      "TIN",
+      "PINT",
+      "NIT",
+      "TIP",
+      "POINT",
+      "NOT",
+      "TON",
+      "OPTION",
+      "OPT",
+      "TOO",
+      "POTION",
+      "PIN",
+      "TOP",
+      "PIT",
+      "INTO"
+    ],
+    "word" : "OOTINP"
+  },
+  {
+    "rs" : [
+      "ION",
+      "POT",
+      "ONTO",
+      "NIP",
+      "TIN",
+      "PINT",
+      "NIT",
+      "TIP",
+      "POINT",
+      "NOT",
+      "TON",
+      "OPTION",
+      "OPT",
+      "TOO",
+      "POTION",
+      "PIN",
+      "TOP",
+      "PIT",
+      "INTO"
+    ],
+    "word" : "OOTINP"
+  },
+  {
+    "rs" : [
+      "HER",
+      "TIE",
+      "TIRE",
+      "HIE",
+      "HEIR",
+      "TREE",
+      "HIT",
+      "HERE",
+      "ETHER",
+      "IRE",
+      "HIRE",
+      "THEIR",
+      "RET",
+      "RITE",
+      "THERE",
+      "TEE",
+      "THEE",
+      "THREE",
+      "THE",
+      "TIER",
+      "EITHER"
+    ],
+    "word" : "HTRIEE"
+  },
+  {
+    "rs" : [
+      "ELF",
+      "FELL",
+      "FEW",
+      "FLEW",
+      "FOE",
+      "FLOW",
+      "LOW",
+      "FOWL",
+      "OWE",
+      "WELL",
+      "OWN",
+      "WOLF",
+      "WOE",
+      "FELLOW"
+    ],
+    "word" : "OFWNELL"
+  },
+  {
+    "rs" : [
+      "DEN",
+      "RID",
+      "RIDE",
+      "DIE",
+      "DINE",
+      "RIND",
+      "DIN",
+      "DIRE",
+      "DINER",
+      "END",
+      "NERD",
+      "INNER",
+      "INN",
+      "NINE",
+      "DINNER",
+      "IRE",
+      "REIN",
+      "RED",
+      "REND"
+    ],
+    "word" : "DRNNEI"
+  },
+  {
+    "rs" : [
+      "AGE",
+      "RED",
+      "AND",
+      "ANGER",
+      "ARE",
+      "GRADE",
+      "DEN",
+      "GRAND",
+      "EAR",
+      "RAGED",
+      "END",
+      "RANGE",
+      "ERA",
+      "DANGER",
+      "RAN",
+      "GARDEN"
+    ],
+    "word" : "DRAENG"
+  },
+  {
+    "rs" : [
+      "BONE",
+      "NOR",
+      "BORE",
+      "ONE",
+      "BORN",
+      "ORB",
+      "ROBE",
+      "ORE",
+      "ZERO",
+      "ROB",
+      "ZONE",
+      "ROE",
+      "BORNE",
+      "BERN",
+      "BRONZE"
+    ],
+    "word" : "ORBNEZ"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "LEG",
+      "AGE",
+      "LYE",
+      "ALE",
+      "CAGE",
+      "GAL",
+      "CLAY",
+      "GEL",
+      "GALE",
+      "LAG",
+      "LACE",
+      "LAY",
+      "LACY",
+      "LEA",
+      "LEGACY"
+    ],
+    "word" : "CEALGLY"
+  },
+  {
+    "rs" : [
+      "CON",
+      "CINE",
+      "MINE",
+      "COIN",
+      "NICE",
+      "ICE",
+      "COME",
+      "OMEN",
+      "ION",
+      "CONE",
+      "ONCE",
+      "MEN",
+      "ICON",
+      "MINCE",
+      "ONE",
+      "MICE",
+      "INCOME"
+    ],
+    "word" : "OMINEC"
+  },
+  {
+    "rs" : [
+      "ARE",
+      "RAM",
+      "NAME",
+      "ARM",
+      "RAN",
+      "NEAR",
+      "EAR",
+      "AMEN",
+      "REAM",
+      "ERA",
+      "EARN",
+      "MAN",
+      "MANE",
+      "MANNER",
+      "MAR",
+      "MARE",
+      "MEN",
+      "MEAN"
+    ],
+    "word" : "AMRNNE"
+  },
+  {
+    "rs" : [
+      "DEW",
+      "WIT",
+      "DIE",
+      "DIET",
+      "DIG",
+      "EDIT",
+      "GET",
+      "TIDE",
+      "TED",
+      "TIED",
+      "TIE",
+      "TWIG",
+      "WET",
+      "WIDE",
+      "WIG",
+      "WIDGET"
+    ],
+    "word" : "TDWIEG"
+  },
+  {
+    "rs" : [
+      "LAM",
+      "MOAN",
+      "MAN",
+      "SLAM",
+      "SON",
+      "LOANS",
+      "ALSO",
+      "MASON",
+      "LAOS",
+      "MOANS",
+      "LOAM",
+      "SALON",
+      "LOAN",
+      "SALMON"
+    ],
+    "word" : "AMONLS"
+  },
+  {
+    "rs" : [
+      "AWL",
+      "WAS",
+      "SLAY",
+      "LAW",
+      "WAY",
+      "SWAY",
+      "LAY",
+      "AWAY",
+      "WAYS",
+      "SAW",
+      "AWLS",
+      "YAWL",
+      "SAY",
+      "LAWS",
+      "ALWAYS",
+      "SLY",
+      "LAYS"
+    ],
+    "word" : "AAYWLS"
+  },
+  {
+    "rs" : [
+      "CON",
+      "CION",
+      "VEIN",
+      "CONE",
+      "VICE",
+      "ICE",
+      "COVE",
+      "VINE",
+      "ION",
+      "ICON",
+      "VOICE",
+      "ONE",
+      "NICE",
+      "NOVICE",
+      "VIE",
+      "ONCE",
+      "CINE",
+      "OVEN"
+    ],
+    "word" : "OVINEC"
+  },
+  {
+    "rs" : [
+      "CON",
+      "CION",
+      "VEIN",
+      "CONE",
+      "VICE",
+      "ICE",
+      "COVE",
+      "VINE",
+      "ION",
+      "ICON",
+      "VOICE",
+      "ONE",
+      "NICE",
+      "NOVICE",
+      "VIE",
+      "ONCE",
+      "CINE",
+      "OVEN"
+    ],
+    "word" : "OVINEC"
+  },
+  {
+    "rs" : [
+      "ALE",
+      "RYE",
+      "ARE",
+      "REAL",
+      "EAR",
+      "RELY",
+      "ERA",
+      "YEAR",
+      "LAY",
+      "EARLY",
+      "LEA",
+      "LAYER",
+      "LYE",
+      "RELAY",
+      "RAY",
+      "YEARLY"
+    ],
+    "word" : "ARYYLE"
+  },
+  {
+    "rs" : [
+      "BED",
+      "LOB",
+      "BOLE",
+      "BUD",
+      "ODE",
+      "QUEL",
+      "DOE",
+      "OLD",
+      "LODE",
+      "DUB",
+      "BLED",
+      "LOUD",
+      "DUE",
+      "BLUE",
+      "DOUBLE",
+      "DUO",
+      "BOLD"
+    ],
+    "word" : "QDEOBLU"
+  },
+  {
+    "rs" : [
+      "AIL",
+      "MAIL",
+      "AIM",
+      "MAIN",
+      "ALA",
+      "MANA",
+      "LAM",
+      "NAIL",
+      "MAN",
+      "MANIA",
+      "MIL",
+      "MILAN",
+      "NIL",
+      "ANIMAL",
+      "LAIN",
+      "MANILA"
+    ],
+    "word" : "AAMINL"
+  },
+  {
+    "rs" : [
+      "ARC",
+      "OAR",
+      "ROAN",
+      "CAN",
+      "RAN",
+      "ACORN",
+      "CAR",
+      "ARCH",
+      "NACHO",
+      "CON",
+      "CHAR",
+      "RANCH",
+      "HON",
+      "CORN",
+      "ROACH",
+      "NOR",
+      "HORN",
+      "ANCHOR"
+    ],
+    "word" : "AORHNC"
+  },
+  {
+    "rs" : [
+      "EEL",
+      "TEE",
+      "ELM",
+      "TOE",
+      "TOME",
+      "LEE",
+      "MEET",
+      "EMOTE",
+      "LET",
+      "MELT",
+      "MOTEL",
+      "LOT",
+      "MOLE",
+      "OMELET",
+      "MET",
+      "MOLT"
+    ],
+    "word" : "OTMEEL"
+  },
+  {
+    "rs" : [
+      "DUE",
+      "SUM",
+      "MUGS",
+      "DUG",
+      "USE",
+      "MUSE",
+      "GEM",
+      "DUES",
+      "SMUG",
+      "GUM",
+      "DUGS",
+      "SUED",
+      "MUD",
+      "GEMS",
+      "USED",
+      "MUG",
+      "GUMS",
+      "SMUDGE",
+      "SUE",
+      "MUDS"
+    ],
+    "word" : "GMDUES"
+  },
+  {
+    "rs" : [
+      "AGE",
+      "TAB",
+      "ATE",
+      "TAG",
+      "BAG",
+      "TEA",
+      "BAT",
+      "BATE",
+      "BEG",
+      "BEAT",
+      "BET",
+      "BETA",
+      "EAT",
+      "GATE",
+      "GET",
+      "TEABAG"
+    ],
+    "word" : "AATBGE"
+  },
+  {
+    "rs" : [
+      "AIL",
+      "GIRL",
+      "AIR",
+      "LAIR",
+      "ARC",
+      "LIAR",
+      "CAR",
+      "RAIL",
+      "GAL",
+      "CIGAR",
+      "LAG",
+      "GRAIL",
+      "RAG",
+      "GARLIC",
+      "RIG"
+    ],
+    "word" : "ARIGLC"
+  },
+  {
+    "rs" : [
+      "GIN",
+      "SIR",
+      "GRINS",
+      "NIP",
+      "GRIPS",
+      "PIG",
+      "PINGS",
+      "PIN",
+      "PRIGS",
+      "RIG",
+      "RINGS",
+      "RIP",
+      "SPRIG",
+      "SIP",
+      "SPRING"
+    ],
+    "word" : "PRIGNS"
+  },
+  {
+    "rs" : [
+      "LET",
+      "LITE",
+      "LIE",
+      "TILE",
+      "LIT",
+      "TILT",
+      "LOT",
+      "TOIL",
+      "OIL",
+      "TOTE",
+      "TIE",
+      "TITLE",
+      "TOE",
+      "TOILET",
+      "TOT"
+    ],
+    "word" : "OTTILE"
+  },
+  {
+    "rs" : [
+      "AGE",
+      "GAME",
+      "DAM",
+      "MADE",
+      "GAD",
+      "MAGE",
+      "GEM",
+      "MEAD",
+      "MAD",
+      "MEGA",
+      "AGED",
+      "ADAGE",
+      "DAME",
+      "DAMAGE"
+    ],
+    "word" : "AAMDGE"
+  },
+  {
+    "rs" : [
+      "ELK",
+      "CEIL",
+      "PECK",
+      "ICE",
+      "CLIP",
+      "PICK",
+      "ILK",
+      "EPIC",
+      "PIKE",
+      "KELP",
+      "PILE",
+      "LIE",
+      "LICE",
+      "PICKLE",
+      "LIP",
+      "LICK",
+      "PIE",
+      "LIKE"
+    ],
+    "word" : "CKIPEL"
+  },
+  {
+    "rs" : [
+      "CAR",
+      "WAD",
+      "ROD",
+      "WAR",
+      "WORD",
+      "ROW",
+      "CARD",
+      "ROAD",
+      "RAD",
+      "CROW",
+      "DRAW",
+      "RAW",
+      "ARC",
+      "CODA",
+      "CROWD",
+      "COWARD",
+      "OAR",
+      "CORD",
+      "COW",
+      "WARD"
+    ],
+    "word" : "AORWDC"
+  },
+  {
+    "rs" : [
+      "ANT",
+      "ANTS",
+      "SHANK",
+      "ASH",
+      "HATS",
+      "STANK",
+      "ASK",
+      "SANK",
+      "TANKS",
+      "HAS",
+      "TANK",
+      "THANK",
+      "HAT",
+      "TANS",
+      "THANKS",
+      "SAT",
+      "TASK",
+      "TAN",
+      "THAN"
+    ],
+    "word" : "ATHKNS"
+  },
+  {
+    "rs" : [
+      "FIE",
+      "FERN",
+      "FINER",
+      "FIG",
+      "FINE",
+      "REIGN",
+      "FIR",
+      "GRIN",
+      "FINGER",
+      "GIN",
+      "REIN",
+      "FRINGE",
+      "IRE",
+      "RING",
+      "RIG",
+      "FEIN"
+    ],
+    "word" : "FRINEG"
+  },
+  {
+    "rs" : [
+      "NINE",
+      "VEIN",
+      "INVENT",
+      "VENT",
+      "TIE",
+      "NET",
+      "VET",
+      "VINE",
+      "TEN",
+      "NIT",
+      "INN",
+      "VIE",
+      "TINE",
+      "TIN"
+    ],
+    "word" : "VTINNE"
+  },
+  {
+    "rs" : [
+      "IMP",
+      "ELM",
+      "LIE",
+      "MIL",
+      "PIE",
+      "LIME",
+      "LIP",
+      "PIPE",
+      "LIMP",
+      "PIP",
+      "PIMPLE",
+      "PILE",
+      "MILE",
+      "PIMP"
+    ],
+    "word" : "MIPPEL"
+  },
+  {
+    "rs" : [
+      "ALE",
+      "THE",
+      "LATH",
+      "ATE",
+      "HALE",
+      "TALE",
+      "EAT",
+      "HALT",
+      "HEATH",
+      "HAT",
+      "HATE",
+      "LATHE",
+      "LEA",
+      "HEAL",
+      "HEALTH",
+      "LET",
+      "HEAT",
+      "TEA",
+      "LATE"
+    ],
+    "word" : "ATHHLE"
+  },
+  {
+    "rs" : [
+      "SEEN",
+      "WENT",
+      "WETS",
+      "NETS",
+      "SEWN",
+      "SET",
+      "TEENS",
+      "SWEET",
+      "STEW",
+      "NET",
+      "TEN",
+      "TEE",
+      "WET",
+      "SENT",
+      "TENSE",
+      "NEWS",
+      "SEW",
+      "NEWEST",
+      "WEST",
+      "SEE",
+      "TEEN",
+      "NEST",
+      "NEW"
+    ],
+    "word" : "TWNEES"
+  },
+  {
+    "rs" : [
+      "SEEN",
+      "WENT",
+      "WETS",
+      "NETS",
+      "SEWN",
+      "SET",
+      "TEENS",
+      "SWEET",
+      "STEW",
+      "NET",
+      "TEN",
+      "TEE",
+      "WET",
+      "SENT",
+      "TENSE",
+      "NEWS",
+      "SEW",
+      "NEWEST",
+      "WEST",
+      "SEE",
+      "TEEN",
+      "NEST",
+      "NEW"
+    ],
+    "word" : "TWNEES"
+  },
+  {
+    "rs" : [
+      "RAKE",
+      "MARK",
+      "ARE",
+      "EAR",
+      "ERR",
+      "MAKER",
+      "RAM",
+      "ARK",
+      "REAM",
+      "ERA",
+      "REAR",
+      "REMARK",
+      "MARE",
+      "MAR",
+      "MAKE",
+      "MARKER",
+      "ARM",
+      "RARE"
+    ],
+    "word" : "AMRRKE"
+  },
+  {
+    "rs" : [
+      "PER",
+      "DIRE",
+      "DIE",
+      "DRIP",
+      "RED",
+      "RIPE",
+      "RIP",
+      "DIP",
+      "RIDE",
+      "PRIZE",
+      "IRE",
+      "PIER",
+      "RID",
+      "REP",
+      "PRIDE",
+      "PIE",
+      "ZIP",
+      "PRIZED"
+    ],
+    "word" : "ZDIREP"
+  },
+  {
+    "rs" : [
+      "INN",
+      "ION",
+      "LIE",
+      "NIL",
+      "OIL",
+      "ONE",
+      "LIEN",
+      "LINE",
+      "LION",
+      "LOIN",
+      "LONE",
+      "NEON",
+      "NINE",
+      "NOEL",
+      "NONE",
+      "LINEN",
+      "ONLINE"
+    ],
+    "word" : "OINNEL"
+  },
+  {
+    "rs" : [
+      "APT",
+      "POP",
+      "LAP",
+      "POT",
+      "LOP",
+      "TAP",
+      "LOT",
+      "TOP",
+      "OAT",
+      "ALTO",
+      "OPT",
+      "OPAL",
+      "PAL",
+      "PLOT",
+      "PAT",
+      "LAPTOP"
+    ],
+    "word" : "ATOPPL"
+  },
+  {
+    "rs" : [
+      "DEN",
+      "DENS",
+      "SUED",
+      "DUE",
+      "DUDE",
+      "USED",
+      "DUN",
+      "DUES",
+      "DUDES",
+      "END",
+      "DUNE",
+      "DUNES",
+      "SUE",
+      "ENDS",
+      "NUDES",
+      "SUN",
+      "NUDE",
+      "SUDDEN",
+      "USE",
+      "SEND"
+    ],
+    "word" : "UDDNES"
+  },
+  {
+    "rs" : [
+      "NOT",
+      "FUN",
+      "WON",
+      "NOW",
+      "PUT",
+      "POUT",
+      "NUT",
+      "TON",
+      "PUNT",
+      "OPY",
+      "TOP",
+      "TOWN",
+      "OUT",
+      "TOW",
+      "UNTO",
+      "OWN",
+      "TUN",
+      "UPON",
+      "POT",
+      "TWO",
+      "UPTOWN"
+    ],
+    "word" : "NWFOTPYU"
+  },
+  {
+    "rs" : [
+      "AGE",
+      "NET",
+      "CANT",
+      "ACT",
+      "TAN",
+      "GENT",
+      "ANT",
+      "TEA",
+      "NEAT",
+      "ATE",
+      "TEN",
+      "ENACT",
+      "GAN",
+      "AGNE",
+      "ACCENT",
+      "CAT",
+      "ANTE",
+      "EAT",
+      "CANE"
+    ],
+    "word" : "ATCCGEN"
+  },
+  {
+    "rs" : [
+      "HER",
+      "REP",
+      "RICE",
+      "HIE",
+      "RIP",
+      "RICH",
+      "HIP",
+      "CHIP",
+      "RIPE",
+      "ICE",
+      "EPIC",
+      "CHIRP",
+      "IRE",
+      "HEIR",
+      "PERCH",
+      "PER",
+      "HIRE",
+      "PRICE",
+      "PIE",
+      "PIER",
+      "CIPHER"
+    ],
+    "word" : "HRPIEC"
+  },
+  {
+    "rs" : [
+      "ADVICE",
+      "CAVE",
+      "DIE",
+      "CAVED",
+      "AID",
+      "AVID",
+      "VIE",
+      "DACE",
+      "VIA",
+      "DIVE",
+      "ICE",
+      "VICE",
+      "AIDE",
+      "IDEA",
+      "DICE",
+      "DIVA",
+      "ICED",
+      "ACE",
+      "ACID"
+    ],
+    "word" : "AVDIEC"
+  },
+  {
+    "rs" : [
+      "REV",
+      "EVE",
+      "ARE",
+      "EAR",
+      "RAVE",
+      "EVER",
+      "VEER",
+      "BEE",
+      "ERE",
+      "BEAR",
+      "BAR",
+      "ERA",
+      "BEER",
+      "AVER",
+      "BRA",
+      "BEAVER",
+      "VERB",
+      "BARE",
+      "BRAVE"
+    ],
+    "word" : "AVRBEE"
+  },
+  {
+    "rs" : [
+      "ROOM",
+      "MORN",
+      "NOR",
+      "MOOR",
+      "MOON",
+      "RAM",
+      "MAN",
+      "MANOR",
+      "ARM",
+      "ROMAN",
+      "OAR",
+      "ROAM",
+      "MAROON",
+      "RAN",
+      "MOO",
+      "MOAN"
+    ],
+    "word" : "AMROON"
+  },
+  {
+    "rs" : [
+      "HEWER",
+      "WERE",
+      "THREE",
+      "THERE",
+      "TREE",
+      "WET",
+      "TEE",
+      "WETHER",
+      "EWE",
+      "WHET",
+      "HER",
+      "RET",
+      "THREW",
+      "HEW",
+      "THEE",
+      "THE",
+      "WHERE",
+      "HERE",
+      "ETHER"
+    ],
+    "word" : "HTRWEE"
+  },
+  {
+    "rs" : [
+      "DEN",
+      "KEN",
+      "DINE",
+      "DIE",
+      "KEY",
+      "INKY",
+      "DIN",
+      "KID",
+      "KIND",
+      "DYE",
+      "KIN",
+      "DINKY",
+      "END",
+      "YEN",
+      "INKED",
+      "INK",
+      "DENY",
+      "KIDNEY"
+    ],
+    "word" : "YDKNEI"
+  },
+  {
+    "rs" : [
+      "ARC",
+      "HOB",
+      "CRAB",
+      "BAR",
+      "OAR",
+      "ABHOR",
+      "BOA",
+      "ORB",
+      "COBRA",
+      "BRA",
+      "ROB",
+      "ROACH",
+      "CAB",
+      "ARCH",
+      "BROACH",
+      "CAR",
+      "BOAR",
+      "COB",
+      "CHAR"
+    ],
+    "word" : "AHROBC"
+  },
+  {
+    "rs" : [
+      "IMP",
+      "SLY",
+      "SLIM",
+      "LIP",
+      "SPY",
+      "SLIP",
+      "MIL",
+      "IMPLY",
+      "PLY",
+      "LIMP",
+      "LIMPS",
+      "PSI",
+      "LIPS",
+      "SLIMY",
+      "SIP",
+      "LISP",
+      "SIMPLY"
+    ],
+    "word" : "MYIPSL"
+  },
+  {
+    "rs" : [
+      "FIR",
+      "PRO",
+      "PORT",
+      "FIT",
+      "RIP",
+      "RIFT",
+      "FOR",
+      "ROT",
+      "RIOT",
+      "OPT",
+      "TIP",
+      "TRIO",
+      "PIT",
+      "TOP",
+      "TRIP",
+      "POT",
+      "FORT",
+      "PROFIT"
+    ],
+    "word" : "OFRIPT"
+  },
+  {
+    "rs" : [
+      "FEN",
+      "TEN",
+      "FINE",
+      "FIE",
+      "TIC",
+      "NICE",
+      "FIN",
+      "TIE",
+      "TINE",
+      "FIT",
+      "TIN",
+      "FEINT",
+      "ICE",
+      "CENT",
+      "INFECT",
+      "NET",
+      "CINE",
+      "NIT",
+      "CITE"
+    ],
+    "word" : "FTINEC"
+  },
+  {
+    "rs" : [
+      "RUN",
+      "URN",
+      "NUMBER",
+      "MENU",
+      "NUB",
+      "RUB",
+      "BUR",
+      "RUE",
+      "RUM",
+      "MEN",
+      "BURN",
+      "RUBE",
+      "BUN",
+      "EMU"
+    ],
+    "word" : "MRBUNE"
+  },
+  {
+    "rs" : [
+      "ART",
+      "ROT",
+      "THAT",
+      "HAT",
+      "TAR",
+      "TORT",
+      "HOT",
+      "TAT",
+      "TROT",
+      "OAR",
+      "TOT",
+      "TAROT",
+      "OAT",
+      "OATH",
+      "TROTH",
+      "RAT",
+      "TART",
+      "THROAT"
+    ],
+    "word" : "ATTROH"
+  },
+  {
+    "rs" : [
+      "ART",
+      "ROT",
+      "THAT",
+      "HAT",
+      "TAR",
+      "TORT",
+      "HOT",
+      "TAT",
+      "TROT",
+      "OAR",
+      "TOT",
+      "TAROT",
+      "OAT",
+      "OATH",
+      "TROTH",
+      "RAT",
+      "TART",
+      "THROAT"
+    ],
+    "word" : "ATTROH"
+  },
+  {
+    "rs" : [
+      "ART",
+      "ROT",
+      "THAT",
+      "HAT",
+      "TAR",
+      "TORT",
+      "HOT",
+      "TAT",
+      "TROT",
+      "OAR",
+      "TOT",
+      "TAROT",
+      "OAT",
+      "OATH",
+      "TROTH",
+      "RAT",
+      "TART",
+      "THROAT"
+    ],
+    "word" : "ATTROH"
+  },
+  {
+    "rs" : [
+      "ADO",
+      "MAN",
+      "MOAN",
+      "AND",
+      "NOD",
+      "MOLD",
+      "DAM",
+      "OLD",
+      "MODAL",
+      "DON",
+      "LAND",
+      "NOMAD",
+      "LAD",
+      "LOAD",
+      "ALMOND",
+      "LAM",
+      "LOAM",
+      "MAD",
+      "LOAN"
+    ],
+    "word" : "AODMNL"
+  },
+  {
+    "rs" : [
+      "ITS",
+      "TIP",
+      "SPOT",
+      "OPT",
+      "TOP",
+      "STOP",
+      "PIT",
+      "TIPS",
+      "POT",
+      "PITS",
+      "TOPS",
+      "SIP",
+      "POST",
+      "PIVOT",
+      "SIT",
+      "POTS",
+      "POSIT",
+      "SOP",
+      "SPIT",
+      "PIVOTS"
+    ],
+    "word" : "OTVIPS"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "MAR",
+      "MACE",
+      "ARC",
+      "RAM",
+      "MARE",
+      "ARE",
+      "ACME",
+      "RACE",
+      "ARM",
+      "ACRE",
+      "REAM",
+      "CAM",
+      "AREA",
+      "CREAM",
+      "CAR",
+      "CAME",
+      "CAMERA",
+      "EAR",
+      "CARE",
+      "ERA",
+      "CRAM"
+    ],
+    "word" : "AAMREC"
+  },
+  {
+    "rs" : [
+      "APT",
+      "PRO",
+      "PART",
+      "ART",
+      "RAP",
+      "PORT",
+      "OAR",
+      "RAT",
+      "RAPT",
+      "OAT",
+      "ROT",
+      "ROAR",
+      "OPT",
+      "TAP",
+      "TRAP",
+      "PAR",
+      "TAR",
+      "PARROT",
+      "PAT",
+      "TOP",
+      "POT",
+      "ATOP"
+    ],
+    "word" : "ATRRPO"
+  },
+  {
+    "rs" : [
+      "AIM",
+      "MAX",
+      "TAX",
+      "AIR",
+      "MIX",
+      "TAXI",
+      "ARM",
+      "RAM",
+      "TRAM",
+      "ART",
+      "RAT",
+      "TRIM",
+      "MAR",
+      "RIM",
+      "MATRIX",
+      "MAT",
+      "TAR"
+    ],
+    "word" : "AMTIRX"
+  },
+  {
+    "rs" : [
+      "JET",
+      "JETS",
+      "RESET",
+      "RET",
+      "REST",
+      "STEER",
+      "SEE",
+      "SEER",
+      "TERSE",
+      "SET",
+      "TREES",
+      "TEE",
+      "TREE",
+      "JESTER",
+      "JEER",
+      "ESTER",
+      "JEST",
+      "JEERS"
+    ],
+    "word" : "STREEJ"
+  },
+  {
+    "rs" : [
+      "RAY",
+      "FIR",
+      "FRAY",
+      "DAY",
+      "AID",
+      "DRY",
+      "DAIRY",
+      "AIR",
+      "FRY",
+      "DRAY",
+      "RAD",
+      "DIARY",
+      "ARID",
+      "RAID",
+      "FAD",
+      "FRIDAY",
+      "YARD",
+      "RID",
+      "AIRY",
+      "FAR",
+      "FAIR"
+    ],
+    "word" : "AFDIRY"
+  },
+  {
+    "rs" : [
+      "IRE",
+      "VIE",
+      "VEIN",
+      "NET",
+      "REIN",
+      "VENT",
+      "NIT",
+      "RENT",
+      "VINE",
+      "RET",
+      "RITE",
+      "INERT",
+      "TEN",
+      "TERN",
+      "INTER",
+      "TIE",
+      "TIER",
+      "RIVEN",
+      "TIN",
+      "TINE",
+      "RIVET",
+      "VET",
+      "TIRE",
+      "INVERT"
+    ],
+    "word" : "VTRINE"
+  },
+  {
+    "rs" : [
+      "EGO",
+      "TIE",
+      "GOES",
+      "GET",
+      "TOE",
+      "SITE",
+      "GOT",
+      "TOG",
+      "TIES",
+      "ITS",
+      "EGOS",
+      "TOES",
+      "SET",
+      "GETS",
+      "TOGS",
+      "SIT",
+      "GIST",
+      "EGOIST"
+    ],
+    "word" : "OTIGES"
+  },
+  {
+    "rs" : [
+      "ARM",
+      "ALUM",
+      "SLAM",
+      "LAM",
+      "ARMS",
+      "SLUM",
+      "MAR",
+      "LAMS",
+      "SLUR",
+      "RAM",
+      "MARS",
+      "MAULS",
+      "RUM",
+      "MAUL",
+      "MURAL",
+      "SUM",
+      "RAMS",
+      "MURALS",
+      "ALMS",
+      "RUMS"
+    ],
+    "word" : "MRASLU"
+  },
+  {
+    "rs" : [
+      "BIT",
+      "SUB",
+      "MUST",
+      "BUM",
+      "SUM",
+      "SMUT",
+      "BUS",
+      "TUB",
+      "SUIT",
+      "BUT",
+      "BITS",
+      "TUBS",
+      "ITS",
+      "BUMS",
+      "SUBMIT",
+      "SIT",
+      "MIST"
+    ],
+    "word" : "TMBISU"
+  },
+  {
+    "rs" : [
+      "ALE",
+      "BALE",
+      "SLAB",
+      "LAB",
+      "BASE",
+      "ZEAL",
+      "LEA",
+      "LABS",
+      "BALES",
+      "SEA",
+      "LAZE",
+      "BLAZE",
+      "ABLE",
+      "SALE",
+      "SABLE",
+      "ALES",
+      "SEAL",
+      "BLAZES"
+    ],
+    "word" : "ASZBLE"
+  },
+  {
+    "rs" : [
+      "ARM",
+      "LAM",
+      "MAN",
+      "MAR",
+      "NOR",
+      "OAR",
+      "RAM",
+      "RAN",
+      "ROM",
+      "LOAN",
+      "LOAM",
+      "MOAN",
+      "NORM",
+      "ORAL",
+      "ROAM",
+      "MANOR",
+      "MOLAR",
+      "MORAL",
+      "ROMAN",
+      "NORMAL"
+    ],
+    "word" : "AMRONL"
+  },
+  {
+    "rs" : [
+      "ARM",
+      "FAR",
+      "FOR",
+      "LAM",
+      "MAR",
+      "OAF",
+      "RAM",
+      "ROM",
+      "FARM",
+      "FOAL",
+      "FOAM",
+      "FORM",
+      "FROM",
+      "LOAF",
+      "LOAM",
+      "ORAL",
+      "ROAM",
+      "FLORA",
+      "MOLAR",
+      "MORAL",
+      "FORMAL"
+    ],
+    "word" : "AMRFOL"
+  },
+  {
+    "rs" : [
+      "COL",
+      "OVER",
+      "ORE",
+      "ROLE",
+      "REV",
+      "ROVE",
+      "ROE",
+      "VOLE",
+      "CORE",
+      "CLOVE",
+      "COVE",
+      "COVER",
+      "LORE",
+      "LOVER",
+      "LOVE",
+      "CLOVER"
+    ],
+    "word" : "OVERLC"
+  },
+  {
+    "rs" : [
+      "ITS",
+      "SET",
+      "SIT",
+      "SUE",
+      "TIE",
+      "USE",
+      "SETS",
+      "SITE",
+      "SITS",
+      "SUES",
+      "SUIT",
+      "TIES",
+      "USES",
+      "ISSUE",
+      "SITES",
+      "SUITE",
+      "SUITS",
+      "SUITES",
+      "TISSUE"
+    ],
+    "word" : "TIUSSE"
+  },
+  {
+    "rs" : [
+      "HER",
+      "ROT",
+      "YET",
+      "HEY",
+      "RYE",
+      "HERO",
+      "HOE",
+      "THE",
+      "ROTE",
+      "HOT",
+      "THY",
+      "THEY",
+      "ORE",
+      "TOE",
+      "TORE",
+      "RET",
+      "TOY",
+      "OTHER",
+      "ROE",
+      "TRY",
+      "THEORY"
+    ],
+    "word" : "HORTYE"
+  },
+  {
+    "rs" : [
+      "INN",
+      "TIN",
+      "TIRE",
+      "IRE",
+      "NINE",
+      "INERT",
+      "NET",
+      "REIN",
+      "INNER",
+      "NIT",
+      "RENT",
+      "INTER",
+      "RET",
+      "RITE",
+      "TRINE",
+      "TEN",
+      "TIER",
+      "INTERN",
+      "TIE",
+      "TINE"
+    ],
+    "word" : "TRINNE"
+  },
+  {
+    "rs" : [
+      "EGO",
+      "GEL",
+      "GUN",
+      "LEG",
+      "LOG",
+      "LUG",
+      "ONE",
+      "GLUE",
+      "GONE",
+      "LONE",
+      "LONG",
+      "LUNE",
+      "LUNG",
+      "NOEL",
+      "LUNGE",
+      "LOUNGE"
+    ],
+    "word" : "OLUGEN"
+  },
+  {
+    "rs" : [
+      "ARE",
+      "BAN",
+      "BAR",
+      "BRA",
+      "EAR",
+      "ERA",
+      "ERR",
+      "NAB",
+      "RAN",
+      "BANE",
+      "BARE",
+      "BARN",
+      "BEAN",
+      "BEAR",
+      "BRAN",
+      "EARN",
+      "NEAR",
+      "RARE",
+      "REAR",
+      "BARREN"
+    ],
+    "word" : "ARRBNE"
+  },
+  {
+    "rs" : [
+      "ELSE",
+      "SLED",
+      "SLEET",
+      "ELDEST",
+      "SET",
+      "TED",
+      "LET",
+      "LEST",
+      "LETS",
+      "TEDS",
+      "TEE",
+      "EEL",
+      "STEED",
+      "LED",
+      "EELS",
+      "TEED",
+      "SEE",
+      "SEED",
+      "LEE",
+      "LEES",
+      "STEEL"
+    ],
+    "word" : "STDEEL"
+  },
+  {
+    "rs" : [
+      "CON",
+      "COT",
+      "ION",
+      "NIT",
+      "NOR",
+      "NOT",
+      "ROT",
+      "TIC",
+      "TIN",
+      "TON",
+      "COIN",
+      "COIR",
+      "CORN",
+      "ICON",
+      "INTO",
+      "IRON",
+      "RIOT",
+      "TORN",
+      "TRIO",
+      "INTRO",
+      "TONIC",
+      "CITRON"
+    ],
+    "word" : "OTRINC"
+  },
+  {
+    "rs" : [
+      "ACT",
+      "ANT",
+      "CAN",
+      "CAT",
+      "CON",
+      "COT",
+      "CUT",
+      "NOT",
+      "NUT",
+      "OAT",
+      "OUT",
+      "TAN",
+      "TON",
+      "TUN",
+      "AUNT",
+      "AUTO",
+      "CANT",
+      "COAT",
+      "TACO",
+      "TUNA",
+      "UNTO",
+      "COUNT",
+      "TOUCAN"
+    ],
+    "word" : "ATONUC"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "ARE",
+      "EAR",
+      "ERA",
+      "IRE",
+      "SEA",
+      "SEE",
+      "SIR",
+      "AIRS",
+      "EARS",
+      "EASE",
+      "ERAS",
+      "RISE",
+      "SEAR",
+      "SEER",
+      "SERE",
+      "SIRE",
+      "ARISE",
+      "ERASE",
+      "RAISE",
+      "EASIER"
+    ],
+    "word" : "ARIEES"
+  },
+  {
+    "rs" : [
+      "DUE",
+      "SOUSE",
+      "ODE",
+      "SODS",
+      "DUOS",
+      "DUO",
+      "SUDS",
+      "USES",
+      "DOSES",
+      "DOUSES",
+      "SUE",
+      "DOE",
+      "DOES",
+      "DUES",
+      "SUED",
+      "SOD",
+      "USE",
+      "SUES",
+      "DOUSE",
+      "SOUSED",
+      "USED"
+    ],
+    "word" : "ODUESS"
+  },
+  {
+    "rs" : [
+      "EGO",
+      "GEL",
+      "LEG",
+      "LOG",
+      "EGOS",
+      "GELS",
+      "GOES",
+      "LEGS",
+      "LOGS",
+      "LOSE",
+      "LOVE",
+      "OGLE",
+      "SLOG",
+      "SOLE",
+      "VOLE",
+      "GLOVE",
+      "LOVES",
+      "VOLVES",
+      "GLOVES"
+    ],
+    "word" : "OSVVGEL"
+  },
+  {
+    "rs" : [
+      "EMU",
+      "IMP",
+      "IRE",
+      "PER",
+      "PIR",
+      "REP",
+      "RIM",
+      "RIP",
+      "RUE",
+      "RUM",
+      "MIRE",
+      "PERM",
+      "PERU",
+      "PIER",
+      "PRIM",
+      "PURE",
+      "RIME",
+      "RIPE",
+      "RUMP",
+      "PRIME",
+      "IMPURE",
+      "UMPIRE"
+    ],
+    "word" : "MRIUEP"
+  },
+  {
+    "rs" : [
+      "LM",
+      "EMU",
+      "SUE",
+      "SUM",
+      "USE",
+      "ELMS",
+      "EMUS",
+      "LESS",
+      "MESS",
+      "MULE",
+      "MUSE",
+      "SLUM",
+      "SUES",
+      "SUMS",
+      "USES",
+      "MULES",
+      "MUSES",
+      "SLUMS",
+      "MUSSEL"
+    ],
+    "word" : "SSMULE"
+  },
+  {
+    "rs" : [
+      "ELM",
+      "ORE",
+      "ROE",
+      "ROM",
+      "ELMS",
+      "LORE",
+      "LOSE",
+      "MOLE",
+      "MORE",
+      "ORES",
+      "ROLE",
+      "ROME",
+      "ROMS",
+      "ROSE",
+      "SLOE",
+      "SOLE",
+      "SOME",
+      "SORE",
+      "LOSER",
+      "MOLES",
+      "MORES",
+      "ROLES"
+    ],
+    "word" : "OMRSEL"
+  },
+  {
+    "rs" : [
+      "FUR",
+      "FIR",
+      "TURFS",
+      "RUST",
+      "RUT",
+      "SIR",
+      "FIRST",
+      "RIFTS",
+      "STIR",
+      "SUIT",
+      "FIT",
+      "ITS",
+      "TURF",
+      "FIST",
+      "FIRS",
+      "FRUIT",
+      "FURS",
+      "SURF",
+      "SIFT",
+      "FITS",
+      "SIT",
+      "RIFT"
+    ],
+    "word" : "FRITUS"
+  },
+  {
+    "rs" : [
+      "ARE",
+      "BAR",
+      "BRA",
+      "EAR",
+      "ERA",
+      "SEA",
+      "BARE",
+      "BARS",
+      "BASE",
+      "BEAR",
+      "BRAS",
+      "EARS",
+      "ERAS",
+      "RAZE",
+      "SEAR",
+      "BARES",
+      "BEARS",
+      "RAZES",
+      "SABER",
+      "ZEBRA",
+      "ZEBRAS"
+    ],
+    "word" : "AZRBES"
+  },
+  {
+    "rs" : [
+      "AID",
+      "AIL",
+      "CAP",
+      "DIP",
+      "LAD",
+      "LAP",
+      "LID",
+      "LIP",
+      "PAD",
+      "PAL",
+      "ACID",
+      "CLAD",
+      "CLAP",
+      "CLIP",
+      "DIAL",
+      "LAID",
+      "PAID",
+      "PAIL",
+      "PLAID",
+      "PLACID"
+    ],
+    "word" : "ADIPLC"
+  },
+  {
+    "rs" : [
+      "APE",
+      "ARE",
+      "EAR",
+      "ERA",
+      "PAD",
+      "PAR",
+      "PEA",
+      "PER",
+      "RAP",
+      "RED",
+      "REP",
+      "APED",
+      "AREA",
+      "DARE",
+      "DEAR",
+      "PARE",
+      "PEAR",
+      "READ",
+      "REAP",
+      "DRAPE",
+      "PARED",
+      "PARADE"
+    ],
+    "word" : "AARPDE"
+  },
+  {
+    "rs" : [
+      "EEL",
+      "LEE",
+      "LET",
+      "SEC",
+      "SEE",
+      "SET",
+      "TEE",
+      "EELS",
+      "ELSE",
+      "LEES",
+      "LEST",
+      "LETS",
+      "SECT",
+      "ELECT",
+      "SLEET",
+      "STEEL",
+      "SLECTS",
+      "SELECT"
+    ],
+    "word" : "SSTCEEL"
+  },
+  {
+    "rs" : [
+      "IRK",
+      "ITS",
+      "KIT",
+      "SIR",
+      "SIT",
+      "SKI",
+      "IRKS",
+      "KISS",
+      "KITS",
+      "RISK",
+      "SIRS",
+      "SITS",
+      "SKIS",
+      "SKIT",
+      "STIR",
+      "RISKS",
+      "SKIRT",
+      "SKITS",
+      "STIRS",
+      "SKIRTS"
+    ],
+    "word" : "TRIKSS"
+  },
+  {
+    "rs" : [
+      "HER",
+      "ALE",
+      "LEE",
+      "HEAR",
+      "LEER",
+      "HEALER",
+      "LEA",
+      "HARE",
+      "HEEL",
+      "REEL",
+      "HEAL",
+      "EARL",
+      "HALE",
+      "HERE",
+      "REAL",
+      "EEL",
+      "ERA",
+      "EAR"
+    ],
+    "word" : "AHRLEE"
+  },
+  {
+    "rs" : [
+      "DOG",
+      "DON",
+      "DUG",
+      "DUN",
+      "DUO",
+      "GOD",
+      "GUN",
+      "NOD",
+      "NOR",
+      "OUR",
+      "ROD",
+      "RUG",
+      "RUN",
+      "URN",
+      "DONG",
+      "DOUR",
+      "DRUG",
+      "RUNG",
+      "UNDO",
+      "GOURD",
+      "ROUND",
+      "GROUND"
+    ],
+    "word" : "ODRGNU"
+  },
+  {
+    "rs" : [
+      "NIP",
+      "NIT",
+      "NUT",
+      "PIN",
+      "PIT",
+      "PUT",
+      "PUN",
+      "RIP",
+      "RUN",
+      "RUT",
+      "TIN",
+      "TIP",
+      "TUN",
+      "URN",
+      "PINT",
+      "PUNT",
+      "RUIN",
+      "RUNT",
+      "TRIP",
+      "TURN",
+      "UNIT",
+      "INPUT",
+      "PRINT",
+      "TURNIP"
+    ],
+    "word" : "TRINPU"
+  },
+  {
+    "rs" : [
+      "ELM",
+      "ORE",
+      "ROE",
+      "ROM",
+      "ELMS",
+      "LORE",
+      "LOSE",
+      "MOLE",
+      "MORE",
+      "ORES",
+      "ROLE",
+      "ROME",
+      "ROMS",
+      "ROSE",
+      "SLOE",
+      "SOLE",
+      "SOME",
+      "SORE",
+      "LOSER",
+      "MOLES",
+      "MORES",
+      "ROLES"
+    ],
+    "word" : "OMRSEL"
+  },
+  {
+    "rs" : [
+      "COD",
+      "COW",
+      "ROD",
+      "ROW",
+      "SOD",
+      "SOW",
+      "CORD",
+      "COWS",
+      "CROW",
+      "RODS",
+      "ROWS",
+      "WORD",
+      "CORDS",
+      "CROWD",
+      "SWORD",
+      "WORDS",
+      "CROWDS"
+    ],
+    "word" : "ODWRSC"
+  },
+  {
+    "rs" : [
+      "IRE",
+      "NET",
+      "NIT",
+      "RET",
+      "TEE",
+      "TEN",
+      "TIE",
+      "TIN",
+      "REIN",
+      "RENT",
+      "RITE",
+      "TEEN",
+      "TERN",
+      "TIER",
+      "TINE",
+      "TIRE",
+      "TREE",
+      "ENTER",
+      "INERT",
+      "INTER",
+      "ENTIRE"
+    ],
+    "word" : "TRINEE"
+  },
+  {
+    "rs" : [
+      "EGO",
+      "GIN",
+      "ION",
+      "IRE",
+      "NOR",
+      "ONE",
+      "ORE",
+      "RIG",
+      "ROE",
+      "GONE",
+      "GORE",
+      "GRIN",
+      "IRON",
+      "OGRE",
+      "REIN",
+      "RING",
+      "GROIN",
+      "REIGN",
+      "IGNORE",
+      "REGION"
+    ],
+    "word" : "ORIGEN"
+  },
+  {
+    "rs" : [
+      "COT",
+      "ORE",
+      "RET",
+      "REV",
+      "ROE",
+      "ROT",
+      "TOE",
+      "VET",
+      "CORE",
+      "COVE",
+      "OVER",
+      "ROVE",
+      "TORE",
+      "VETO",
+      "VOTE",
+      "COVER",
+      "COVET",
+      "OVERT",
+      "TROVE",
+      "VOTER",
+      "COVERT",
+      "VECTOR"
+    ],
+    "word" : "OTRVEC"
+  },
+  {
+    "rs" : [
+      "ALE",
+      "ANT",
+      "ATE",
+      "EAT",
+      "LEA",
+      "LET",
+      "NET",
+      "TAN",
+      "TAT",
+      "TEA",
+      "TEN",
+      "ANTE",
+      "LANE",
+      "LATE",
+      "LEAN",
+      "LENT",
+      "NEAT",
+      "TALE",
+      "TEAL",
+      "TEAT",
+      "TEMT",
+      "LATENT",
+      "TALENT"
+    ],
+    "word" : "ATTMNLE"
+  },
+  {
+    "rs" : [
+      "LIGHTS",
+      "SILT",
+      "SLIGHT",
+      "GILTS",
+      "SIGH",
+      "HIS",
+      "HILT",
+      "GIST",
+      "HITS",
+      "ITS",
+      "HILTS",
+      "SIGHT",
+      "HIT",
+      "THIS",
+      "SIT",
+      "LIT",
+      "LIST",
+      "SLIT",
+      "LIGHT"
+    ],
+    "word" : "HTIGSL"
+  },
+  {
+    "rs" : [
+      "NEAR",
+      "FACE",
+      "CAR",
+      "CAFE",
+      "ARE",
+      "ACNE",
+      "CAN",
+      "EAR",
+      "FRANCE",
+      "FARCE",
+      "EARN",
+      "CRANE",
+      "ACRE",
+      "FARE",
+      "ERA",
+      "FEN",
+      "CANE",
+      "RAN",
+      "RACE",
+      "ARC",
+      "FAR",
+      "CARE",
+      "FAN",
+      "ACE",
+      "FEAR"
+    ],
+    "word" : "AFRNEC"
+  },
+  {
+    "rs" : [
+      "MORE",
+      "TORE",
+      "ROM",
+      "MEET",
+      "MERE",
+      "TOME",
+      "TREE",
+      "TEE",
+      "ROE",
+      "TEEM",
+      "METE",
+      "REMOTTE",
+      "TOE",
+      "RET",
+      "ROME",
+      "METRO",
+      "ROT",
+      "TERM",
+      "MET",
+      "METEOR",
+      "EMOTE",
+      "METER",
+      "ORE"
+    ],
+    "word" : "OMTTREE"
+  },
+  {
+    "rs" : [
+      "DOE",
+      "LED",
+      "LOP",
+      "ODE",
+      "OLD",
+      "POD",
+      "DOLE",
+      "DOPE",
+      "LODE",
+      "LOOP",
+      "LOPE",
+      "PLOD",
+      "POLE",
+      "POLO",
+      "POOL",
+      "LOPED",
+      "LOOPED",
+      "POODLE",
+      "POOLED"
+    ],
+    "word" : "OODPEL"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "ANY",
+      "BAN",
+      "BAR",
+      "BAY",
+      "BIN",
+      "BRA",
+      "NAB",
+      "NAY",
+      "NIB",
+      "RAN",
+      "RAY",
+      "RIB",
+      "AIRY",
+      "BARN",
+      "BRAN",
+      "BRAY",
+      "RAIN",
+      "YARN",
+      "BRAIN",
+      "BRINY",
+      "RAINY",
+      "BINARY",
+      "BRAINY"
+    ],
+    "word" : "ARINYB"
+  },
+  {
+    "rs" : [
+      "ILL",
+      "LET",
+      "LIE",
+      "LIT",
+      "NET",
+      "NIL",
+      "NIT",
+      "TEN",
+      "TIE",
+      "TIN",
+      "LENT",
+      "LIEN",
+      "LILT",
+      "LINE",
+      "LINT",
+      "LITE",
+      "TELL",
+      "TILE",
+      "TILL",
+      "TINE",
+      "INLET",
+      "LENTIL"
+    ],
+    "word" : "TINLLE"
+  },
+  {
+    "rs" : [
+      "ITS",
+      "LIP",
+      "LIT",
+      "PIT",
+      "PUS",
+      "PUT",
+      "SIP",
+      "SIT",
+      "TIP",
+      "UPS",
+      "LIPS",
+      "LISP",
+      "LIST",
+      "PITS",
+      "PLUS",
+      "PUTS",
+      "SILT",
+      "SLIP",
+      "SLIT",
+      "SPIT",
+      "SUIT",
+      "TIPS",
+      "SPILT",
+      "SPLIT",
+      "TULIP",
+      "TULIPS"
+    ],
+    "word" : "UTIPSL"
+  },
+  {
+    "rs" : [
+      "ANY",
+      "NAY",
+      "NOR",
+      "NOW",
+      "OAR",
+      "OWN",
+      "RAN",
+      "RAW",
+      "RAY",
+      "ROW",
+      "WAN",
+      "WAR",
+      "WAY",
+      "WON",
+      "WRY",
+      "AWRY",
+      "ROAN",
+      "WARN",
+      "WARY",
+      "WORN",
+      "YARN",
+      "YAWN",
+      "RAYON",
+      "NORWAY"
+    ],
+    "word" : "AOYRNW"
+  },
+  {
+    "rs" : [
+      "RAG",
+      "SIGH",
+      "HAS",
+      "ASH",
+      "SIR",
+      "AIRS",
+      "SAG",
+      "RAGS",
+      "GARISH",
+      "AIR",
+      "RIG",
+      "HIS",
+      "RASH",
+      "GAS",
+      "HAIRS",
+      "RIGS"
+    ],
+    "word" : "AHRIGS"
+  },
+  {
+    "rs" : [
+      "LET",
+      "LIE",
+      "LIT",
+      "LOT",
+      "OIL",
+      "TIE",
+      "TOE",
+      "VET",
+      "VIE",
+      "EVIL",
+      "LITE",
+      "LIVE",
+      "LOVE",
+      "TILE",
+      "VEIL",
+      "VETO",
+      "VILE",
+      "VIOL",
+      "VOLE",
+      "VOLT",
+      "VOTE",
+      "OLIVE",
+      "VOILE",
+      "VIOLET"
+    ],
+    "word" : "OTVILE"
+  },
+  {
+    "rs" : [
+      "LOW",
+      "ROLE",
+      "OWE",
+      "ELF",
+      "FLOW",
+      "LORE",
+      "WOE",
+      "ROW",
+      "ROE",
+      "FEW",
+      "FLEW",
+      "FOR",
+      "FOWL",
+      "OWL",
+      "FOE",
+      "WORE",
+      "FLOWER",
+      "WOLF",
+      "FORE",
+      "LOWER",
+      "ORE"
+    ],
+    "word" : "OFRWEL"
+  },
+  {
+    "rs" : [
+      "LEA",
+      "CLEAT",
+      "ACT",
+      "ELK",
+      "LET",
+      "LACE",
+      "LEAK",
+      "TALE",
+      "TEAK",
+      "KALE",
+      "CAT",
+      "TEA",
+      "TALC",
+      "EAT",
+      "ALE",
+      "TACKLE",
+      "LAKE",
+      "TACK",
+      "LATE",
+      "TAKE",
+      "CAKE",
+      "ACE",
+      "TALK",
+      "ATE",
+      "TEAL"
+    ],
+    "word" : "ATLKEC"
+  },
+  {
+    "rs" : [
+      "EMU",
+      "MEN",
+      "MET",
+      "NET",
+      "NIT",
+      "NUT",
+      "TEN",
+      "TIE",
+      "TIN",
+      "TUN",
+      "EMIT",
+      "ITEM",
+      "MENU",
+      "MIEN",
+      "MINE",
+      "MINT",
+      "MITE",
+      "MUTE",
+      "TIME",
+      "TINE",
+      "TUNE",
+      "UNIT",
+      "UNITE",
+      "UNMET",
+      "UNTIE",
+      "MINUET",
+      "MINUTE"
+    ],
+    "word" : "MTIUEN"
+  },
+  {
+    "rs" : [
+      "IRE",
+      "LIE",
+      "REV",
+      "SIR",
+      "VIE",
+      "EVIL",
+      "ISLE",
+      "LIES",
+      "LIVE",
+      "REVS",
+      "RILE",
+      "RISE",
+      "RIVE",
+      "SIRE",
+      "VEIL",
+      "VILE",
+      "EVILS",
+      "LIVER",
+      "LIVES",
+      "RILES",
+      "RIVES",
+      "VEILS",
+      "LIVERS",
+      "SILVER",
+      "SLIVER"
+    ],
+    "word" : "VSRIEL"
+  },
+  {
+    "rs" : [
+      "IRE",
+      "LIE",
+      "REV",
+      "SIR",
+      "VIE",
+      "EVIL",
+      "ISLE",
+      "LIES",
+      "LIVE",
+      "REVS",
+      "RILE",
+      "RISE",
+      "RIVE",
+      "SIRE",
+      "VEIL",
+      "VILE",
+      "EVILS",
+      "LIVER",
+      "LIVES",
+      "RILES",
+      "RIVES",
+      "VEILS",
+      "LIVERS",
+      "SILVER",
+      "SLIVER"
+    ],
+    "word" : "VSRIEL"
+  },
+  {
+    "rs" : [
+      "SEE",
+      "SUES",
+      "SUE",
+      "USES",
+      "USE",
+      "ISSUE",
+      "SEES",
+      "ISSUES"
+    ],
+    "word" : "IUSSSEE"
+  },
+  {
+    "rs" : [
+      "BEE",
+      "BEET",
+      "BET",
+      "REEK",
+      "RET",
+      "TREE",
+      "TEE",
+      "TREK",
+      "BEER",
+      "BETTER"
+    ],
+    "word" : "TTRBKEE"
+  },
+  {
+    "rs" : [
+      "HIM",
+      "SHIM",
+      "HIS",
+      "FISHY",
+      "SHY",
+      "SHIMMY",
+      "FISH"
+    ],
+    "word" : "HMMFIYS"
+  },
+  {
+    "rs" : [
+      "JET",
+      "PUP",
+      "JUT",
+      "PUT",
+      "PEP",
+      "JUTE",
+      "PET",
+      "PUPPET"
+    ],
+    "word" : "TPPPUEJ"
+  },
+  {
+    "rs" : [
+      "FIG",
+      "WIT",
+      "FIT",
+      "GIFT",
+      "GIG",
+      "TWIG",
+      "WIG",
+      "TWIGGY"
+    ],
+    "word" : "FTIGGWY"
+  },
+  {
+    "rs" : [
+      "CUE",
+      "LICE",
+      "ICE",
+      "LIEU",
+      "LIE",
+      "JUICE",
+      "CLUE",
+      "CLIQUE"
+    ],
+    "word" : "QIEJCLU"
+  },
+  {
+    "rs" : [
+      "BOA",
+      "HOP",
+      "BOP",
+      "HUB",
+      "HIP",
+      "PUB",
+      "HOB",
+      "PHOBIA"
+    ],
+    "word" : "UIAOBPH"
+  },
+  {
+    "rs" : [
+      "DIG",
+      "GILD",
+      "DUG",
+      "GUILD",
+      "LID",
+      "LIQUID",
+      "LUG"
+    ],
+    "word" : "QDIIGLU"
+  },
+  {
+    "rs" : [
+      "EEL",
+      "VET",
+      "EVE",
+      "TELL",
+      "LEE",
+      "LEVEL",
+      "LET",
+      "VELVET",
+      "TEE"
+    ],
+    "word" : "VVTEELL"
+  },
+  {
+    "rs" : [
+      "FIN",
+      "PIN",
+      "FUN",
+      "PUN",
+      "ION",
+      "UPON",
+      "NIP",
+      "PUFFIN",
+      "OFF"
+    ],
+    "word" : "OFFINPU"
+  },
+  {
+    "rs" : [
+      "EEL",
+      "VET",
+      "EVE",
+      "TELL",
+      "LEE",
+      "LEVEL",
+      "LET",
+      "VELVET",
+      "TEE"
+    ],
+    "word" : "VVTEELL"
+  },
+  {
+    "rs" : [
+      "FIN",
+      "PIN",
+      "FUN",
+      "PUN",
+      "ION",
+      "UPON",
+      "NIP",
+      "PUFFIN",
+      "OFF"
+    ],
+    "word" : "OFFINPU"
+  },
+  {
+    "rs" : [
+      "ELM",
+      "HUM",
+      "EMU",
+      "HELM",
+      "HEM",
+      "MULE",
+      "HUE",
+      "MUZZLE"
+    ],
+    "word" : "HMZZUEL"
+  },
+  {
+    "rs" : [
+      "ATE",
+      "TAKE",
+      "EAT",
+      "TEAK",
+      "TEA",
+      "QUAKE",
+      "TEE",
+      "EQUATE"
+    ],
+    "word" : "ATKUEEQ"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "OFF",
+      "FEE",
+      "CAFE",
+      "FOE",
+      "FACE",
+      "OAF",
+      "COFFEE"
+    ],
+    "word" : "AOFFEEC"
+  },
+  {
+    "rs" : [
+      "FAT",
+      "STAY",
+      "SAT",
+      "FUSTY",
+      "SAY",
+      "STAFF",
+      "FAST",
+      "STUFF",
+      "FATS",
+      "STUFFY"
+    ],
+    "word" : "AFFTYUS"
+  },
+  {
+    "rs" : [
+      "IGY",
+      "LUCKY",
+      "ILK",
+      "QUICK",
+      "LICK",
+      "QUICKLY",
+      "LUCK"
+    ],
+    "word" : "UQIKGCYL"
+  },
+  {
+    "rs" : [
+      "SEG",
+      "CHEEP",
+      "SEE",
+      "SHEEP",
+      "SHE",
+      "CHEESE",
+      "SEEP",
+      "SPEECH",
+      "SPEC"
+    ],
+    "word" : "CHPGSEEE"
+  },
+  {
+    "rs" : [
+      "SEG",
+      "CHEEP",
+      "SEE",
+      "SHEEP",
+      "SHE",
+      "CHEESE",
+      "SEEP",
+      "SPEECH",
+      "SPEC"
+    ],
+    "word" : "CHPGSEEE"
+  },
+  {
+    "rs" : [
+      "SEG",
+      "CHEEP",
+      "SEE",
+      "SHEEP",
+      "SHE",
+      "CHEESE",
+      "SEEP",
+      "SPEECH",
+      "SPEC"
+    ],
+    "word" : "CHPGSEEE"
+  },
+  {
+    "rs" : [
+      "BEE",
+      "BET",
+      "FEE",
+      "TEE",
+      "BEET",
+      "BEEF",
+      "FEET",
+      "FETE",
+      "EFFECT"
+    ],
+    "word" : "TFFBEEC"
+  },
+  {
+    "rs" : [
+      "BEE",
+      "BET",
+      "FEE",
+      "TEE",
+      "BEET",
+      "BEEF",
+      "FEET",
+      "FETE",
+      "EFFECT"
+    ],
+    "word" : "TFFBEEC"
+  },
+  {
+    "rs" : [
+      "LET",
+      "RET",
+      "RUE",
+      "RUT",
+      "LURE",
+      "LUTE",
+      "RULE",
+      "TRUE",
+      "UTTER",
+      "TURTLE"
+    ],
+    "word" : "TTRULE"
+  },
+  {
+    "rs" : [
+      "BUS",
+      "SEW",
+      "SUB",
+      "SUE",
+      "USE",
+      "WEB",
+      "WEBS",
+      "WISE",
+      "BISQUE"
+    ],
+    "word" : "QIEWSBU"
+  },
+  {
+    "rs" : [
+      "SAP",
+      "SIP",
+      "SPA",
+      "ZAP",
+      "ZIP",
+      "ASIA",
+      "ZAPS",
+      "ZIPS",
+      "PIZZA",
+      "PIZZAS"
+    ],
+    "word" : "AAPISZZ"
+  },
+  {
+    "rs" : [
+      "ITS",
+      "SIT",
+      "TIC",
+      "MIST",
+      "VISIT",
+      "VICTIM",
+      "VICTIMS"
+    ],
+    "word" : "VTMIISC"
+  },
+  {
+    "rs" : [
+      "AIM",
+      "CAM",
+      "CAN",
+      "MAN",
+      "MAIN",
+      "MINI",
+      "MANIC",
+      "MANIAC"
+    ],
+    "word" : "AAMIINC"
+  },
+  {
+    "rs" : [
+      "INN",
+      "ION",
+      "MOW",
+      "NOW",
+      "OWN",
+      "WIN",
+      "WON",
+      "MINNOW"
+    ],
+    "word" : "OMINNW"
+  },
+  {
+    "rs" : [
+      "BOO",
+      "BOY",
+      "JOB",
+      "JOY",
+      "LOB",
+      "OLD",
+      "BIDY",
+      "BOLD",
+      "BLOOD",
+      "BLOODY"
+    ],
+    "word" : "DIJOOBYL"
+  },
+  {
+    "rs" : [
+      "ERR",
+      "HER",
+      "HOE",
+      "ORE",
+      "ROE",
+      "HERO",
+      "ERROR",
+      "HORROR"
+    ],
+    "word" : "HOORRRE"
+  },
+  {
+    "rs" : [
+      "SHE",
+      "BELL",
+      "HELL",
+      "LESS",
+      "SELL",
+      "BELLS",
+      "BLESS",
+      "SELLS",
+      "SHELL",
+      "SHELLS"
+    ],
+    "word" : "HLLBSSE"
+  },
+  {
+    "rs" : [
+      "AIM",
+      "MAX",
+      "MIX",
+      "MUM",
+      "MAIM",
+      "MAXIM",
+      "MAXIMUM"
+    ],
+    "word" : "AMMMIUX"
+  },
+  {
+    "rs" : [
+      "BOA",
+      "BOB",
+      "BOO",
+      "MOB",
+      "MOO",
+      "ZOO",
+      "BOMB",
+      "BOOM",
+      "ZOOM",
+      "BAMBOO"
+    ],
+    "word" : "OOAMBBZ"
+  },
+  {
+    "rs" : [
+      "HOW",
+      "ILL",
+      "LOW",
+      "OIL",
+      "OWL",
+      "WHO",
+      "WOW",
+      "HILL",
+      "HOWL",
+      "WILL",
+      "WILLOW"
+    ],
+    "word" : "HOWWILL"
+  },
+  {
+    "rs" : [
+      "NIT",
+      "NUT",
+      "TIN",
+      "TUN",
+      "MINT",
+      "TINY",
+      "UNIT",
+      "MINTY",
+      "UNITY",
+      "MUTINY"
+    ],
+    "word" : "TMINUY"
+  },
+  {
+    "rs" : [
+      "FUR",
+      "RET",
+      "RUE",
+      "RUT",
+      "FRET",
+      "TRUE",
+      "TURF",
+      "UTTER",
+      "FUTURE"
+    ],
+    "word" : "FRTTUUE"
+  },
+  {
+    "rs" : [
+      "ASH",
+      "HAS",
+      "HAUL",
+      "LASH",
+      "LUSH",
+      "SASH",
+      "HAULS",
+      "QUASH",
+      "SLASH",
+      "SLUSH",
+      "SQUASH"
+    ],
+    "word" : "AHQUSSL"
+  },
+  {
+    "rs" : [
+      "AIR",
+      "ART",
+      "HAT",
+      "HIT",
+      "RAT",
+      "TAR",
+      "VAT",
+      "VIA",
+      "HAIR",
+      "TRIVIA"
+    ],
+    "word" : "ATRIIHV"
+  },
+  {
+    "rs" : [
+      "NIT",
+      "TIN",
+      "TRY",
+      "WIN",
+      "WIT",
+      "WRY",
+      "TINY",
+      "TWIN",
+      "WIRY",
+      "WRIT",
+      "WINTRY"
+    ],
+    "word" : "TRINYW"
+  },
+  {
+    "rs" : [
+      "DIET",
+      "TED",
+      "EDIT",
+      "EXITED",
+      "TIDE",
+      "TIE",
+      "EXIT",
+      "DIE",
+      "TEE"
+    ],
+    "word" : "TDIEEX"
+  },
+  {
+    "rs" : [
+      "INN",
+      "ION",
+      "NIP",
+      "PIN",
+      "NOON",
+      "ONION",
+      "PINION",
+      "OPINION"
+    ],
+    "word" : "OOIINNP"
+  },
+  {
+    "rs" : [
+      "HEN",
+      "HER",
+      "SHE",
+      "CHEF",
+      "FERN",
+      "HENS",
+      "HERS",
+      "CHEFS",
+      "FERNS",
+      "FRESH",
+      "FRENCH"
+    ],
+    "word" : "RNEFSCH"
+  },
+  {
+    "rs" : [
+      "TOUT",
+      "OUTWIT",
+      "TWIT",
+      "TWO",
+      "TOT",
+      "TOW",
+      "WIT",
+      "TOOT",
+      "OUT",
+      "TOO"
+    ],
+    "word" : "OOTTWUI"
+  },
+  {
+    "rs" : [
+      "GIG",
+      "PIPS",
+      "PIG",
+      "SIPS",
+      "SIP",
+      "SOPS",
+      "SOP",
+      "GOSSIP"
+    ],
+    "word" : "OIGGPPSS"
+  },
+  {
+    "rs" : [
+      "BYE",
+      "ICE",
+      "ICY",
+      "LIE",
+      "LYE",
+      "BILE",
+      "LICE",
+      "CYCLE",
+      "BICYCLE"
+    ],
+    "word" : "LYBIECC"
+  },
+  {
+    "rs" : [
+      "SEA",
+      "SUE",
+      "SUN",
+      "USE",
+      "AQUA",
+      "SANE",
+      "SAUNA",
+      "NAUSEA"
+    ],
+    "word" : "AANQUSE"
+  },
+  {
+    "rs" : [
+      "CUT",
+      "HUT",
+      "NUT",
+      "TUN",
+      "CULT",
+      "HUNT",
+      "LUNCH",
+      "CLUNCH"
+    ],
+    "word" : "HTLUNCC"
+  },
+  {
+    "rs" : [
+      "ICE",
+      "SEC",
+      "SIN",
+      "CINE",
+      "ICES",
+      "NICE",
+      "SINE",
+      "SINCE",
+      "SCENIC"
+    ],
+    "word" : "SINECC"
+  },
+  {
+    "rs" : [
+      "BUM",
+      "CUB",
+      "CUE",
+      "ELM",
+      "EMU",
+      "BLUE",
+      "CLUB",
+      "CLUE",
+      "CUBE",
+      "MULE",
+      "JUMBLE"
+    ],
+    "word" : "MEJBCLU"
+  },
+  {
+    "rs" : [
+      "FUN",
+      "MOM",
+      "MUM",
+      "SON",
+      "SUM",
+      "SUN",
+      "MOMS",
+      "ONUS",
+      "SUMMON"
+    ],
+    "word" : "OFMMUNS"
+  },
+  {
+    "rs" : [
+      "FUN",
+      "GNU",
+      "GUN",
+      "SUN",
+      "GNUS",
+      "GUNS",
+      "SNUG",
+      "SUNG",
+      "SNUFF",
+      "FUNGUS"
+    ],
+    "word" : "SFFUUNG"
+  },
+  {
+    "rs" : [
+      "BOO",
+      "BOY",
+      "DON",
+      "NOD",
+      "ODD",
+      "BODY",
+      "BONY",
+      "BOON",
+      "NOBODY"
+    ],
+    "word" : "OOYBDDN"
+  },
+  {
+    "rs" : [
+      "ALE",
+      "ELM",
+      "LEA",
+      "LAME",
+      "LAZE",
+      "MALE",
+      "MAZE",
+      "MEAL",
+      "ZEAL",
+      "AMAZE",
+      "AZALEA"
+    ],
+    "word" : "AAAMZLE"
+  },
+  {
+    "rs" : [
+      "BIN",
+      "BUN",
+      "COB",
+      "CON",
+      "CUB",
+      "ION",
+      "NIB",
+      "COIN",
+      "ICON",
+      "IONIC",
+      "BIONIC"
+    ],
+    "word" : "COBIINU"
+  },
+  {
+    "rs" : [
+      "BIB",
+      "EBB",
+      "LIE",
+      "BILE",
+      "BLUE",
+      "BULB",
+      "LIEU",
+      "BIBLE",
+      "BUBBLE"
+    ],
+    "word" : "UBBBIEL"
+  },
+  {
+    "rs" : [
+      "BUR",
+      "BUY",
+      "BYE",
+      "RUB",
+      "RUE",
+      "RYE",
+      "BURY",
+      "BUZZ",
+      "RUBE",
+      "RUBY",
+      "BUYER",
+      "BUZZER"
+    ],
+    "word" : "ZZRBUYE"
+  },
+  {
+    "rs" : [
+      "BOB",
+      "BOO",
+      "BOY",
+      "LOB",
+      "OLD",
+      "BODY",
+      "BOLD",
+      "BLOOD",
+      "LOBBY",
+      "BLOODY"
+    ],
+    "word" : "OOYBBDL"
+  },
+  {
+    "rs" : [
+      "HIS",
+      "HIT",
+      "ITS",
+      "SIR",
+      "SIT",
+      "SIX",
+      "HITS",
+      "STIR",
+      "THIS",
+      "SHIRT",
+      "SIXTH",
+      "THIRST"
+    ],
+    "word" : "HTTRISX"
+  },
+  {
+    "rs" : [
+      "FLU",
+      "FLUX",
+      "FLY",
+      "FOUL",
+      "FOX",
+      "FOXY",
+      "JOY",
+      "JULY",
+      "YOU",
+      "JOYFUL"
+    ],
+    "word" : "LJFOXYU"
+  },
+  {
+    "rs" : [
+      "FEE",
+      "FREE",
+      "FOE",
+      "REEF",
+      "FOR",
+      "ZERO",
+      "ORE",
+      "FROZE",
+      "ROE",
+      "FREEZE"
+    ],
+    "word" : "OFREEEZ"
+  },
+  {
+    "rs" : [
+      "EGG",
+      "ELK",
+      "LIE",
+      "GEL",
+      "WIG",
+      "GIG",
+      "LIKE",
+      "ILK",
+      "WILE",
+      "LEG",
+      "WIGGLE"
+    ],
+    "word" : "WKIGGEL"
+  },
+  {
+    "rs" : [
+      "ION",
+      "URN",
+      "NIL",
+      "IRON",
+      "NOR",
+      "LION",
+      "OIL",
+      "LOIN",
+      "OUR",
+      "RUN",
+      "RUIN",
+      "LIQUOR"
+    ],
+    "word" : "QIRNOLU"
+  },
+  {
+    "rs" : [
+      "FIG",
+      "NIL",
+      "FIN",
+      "FLING",
+      "FLY",
+      "LYING",
+      "GIN",
+      "VINYL",
+      "IVY",
+      "FLYING"
+    ],
+    "word" : "VINFGYL"
+  },
+  {
+    "rs" : [
+      "AIM",
+      "RIM",
+      "AIR",
+      "ROM",
+      "ARM",
+      "ROAM",
+      "MAR",
+      "ROAR",
+      "OAR",
+      "ARMOR",
+      "RAM",
+      "MIRROR"
+    ],
+    "word" : "AMRRRIO"
+  },
+  {
+    "rs" : [
+      "KEY",
+      "YET",
+      "RET",
+      "TREK",
+      "RUE",
+      "TRUE",
+      "RUT",
+      "QUERY",
+      "RYE",
+      "TURKEY",
+      "TRY"
+    ],
+    "word" : "QREKTYU"
+  },
+  {
+    "rs" : [
+      "ALL",
+      "MASK",
+      "ASK",
+      "SLAM",
+      "LAM",
+      "LLAMA",
+      "ALAS",
+      "MALLS",
+      "ALMS",
+      "SMALL",
+      "MALL",
+      "LLAMAS"
+    ],
+    "word" : "AAMKLLS"
+  },
+  {
+    "rs" : [
+      "FIN",
+      "URN",
+      "FIR",
+      "FURY",
+      "FRY",
+      "JURY",
+      "FUN",
+      "RUIN",
+      "FUR",
+      "UNIFY",
+      "RUN",
+      "INJURY"
+    ],
+    "word" : "IRNJFYU"
+  },
+  {
+    "rs" : [
+      "DUE",
+      "JUGS",
+      "DUG",
+      "SUED",
+      "JUG",
+      "USED",
+      "SUE",
+      "JUDGE",
+      "USE",
+      "JUDGES",
+      "DUES"
+    ],
+    "word" : "GSDUEJ"
+  },
+  {
+    "rs" : [
+      "GAS",
+      "GUST",
+      "GUT",
+      "GUTS",
+      "SAG",
+      "STAG",
+      "SAT",
+      "TAGS",
+      "TAG",
+      "TUGS",
+      "TUG",
+      "AUGUST"
+    ],
+    "word" : "ATGSUU"
+  },
+  {
+    "rs" : [
+      "DIM",
+      "FIND",
+      "DIN",
+      "FUND",
+      "DUN",
+      "MIFF",
+      "FIN",
+      "MIND",
+      "FUN",
+      "MUFF",
+      "MID",
+      "MUFFIN",
+      "MUD"
+    ],
+    "word" : "MDIFFNU"
+  },
+  {
+    "rs" : [
+      "GUE",
+      "GUSS",
+      "SEC",
+      "SUES",
+      "SUE",
+      "USES",
+      "USE",
+      "SUCCESS",
+      "CUES"
+    ],
+    "word" : "SSSCCGUE"
+  },
+  {
+    "rs" : [
+      "CON",
+      "ONLY",
+      "COY",
+      "COLON",
+      "CLOY",
+      "LOONY",
+      "COOL",
+      "NYLON",
+      "LOON",
+      "COLONY",
+      "NOON"
+    ],
+    "word" : "OOYNNLC"
+  },
+  {
+    "rs" : [
+      "EEL",
+      "TEE",
+      "EVE",
+      "VET",
+      "EWE",
+      "WET",
+      "JET",
+      "WELT",
+      "JEW",
+      "JEWEL",
+      "LEE",
+      "TWELVE",
+      "LET"
+    ],
+    "word" : "VTJWEEL"
+  },
+  {
+    "rs" : [
+      "CRY",
+      "REEK",
+      "EYE",
+      "CHEEK",
+      "HER",
+      "CHEER",
+      "HEY",
+      "CREEK",
+      "KEY",
+      "CHEEKY",
+      "RYE",
+      "CHEERY",
+      "HERE"
+    ],
+    "word" : "HRYKEEC"
+  },
+  {
+    "rs" : [
+      "FIR",
+      "TIP",
+      "FIT",
+      "TRY",
+      "FRY",
+      "PITY",
+      "PIT",
+      "RIFT",
+      "PRY",
+      "TRIP",
+      "RIP",
+      "TYPIFY"
+    ],
+    "word" : "FRITPYY"
+  },
+  {
+    "rs" : [
+      "EEL",
+      "HEEL",
+      "ELK",
+      "KEEL",
+      "LEE",
+      "LEEK",
+      "LET",
+      "TEETH",
+      "TEE",
+      "KETTLE",
+      "THE"
+    ],
+    "word" : "HTTKEEL"
+  },
+  {
+    "rs" : [
+      "AIL",
+      "FAIL",
+      "AIM",
+      "FILM",
+      "FLY",
+      "FLAY",
+      "LAY",
+      "MAIL",
+      "MAY",
+      "FILMY",
+      "YAM",
+      "FAMILY"
+    ],
+    "word" : "AFMIYL"
+  },
+  {
+    "rs" : [
+      "ANY",
+      "YOU",
+      "NEON",
+      "NAY",
+      "NONE",
+      "NUN",
+      "NOUN",
+      "ONE",
+      "ANNOY",
+      "YEN",
+      "ANYONE"
+    ],
+    "word" : "AOYNNUE"
+  },
+  {
+    "rs" : [
+      "LAY",
+      "RAY",
+      "SAY",
+      "SLY",
+      "ALAS",
+      "LAYS",
+      "RAYS",
+      "SLAY",
+      "ARRAY",
+      "ARRAYS",
+      "SALARY"
+    ],
+    "word" : "AAYRRLS"
+  },
+  {
+    "rs" : [
+      "GIN",
+      "ILK",
+      "INK",
+      "KIN",
+      "NIL",
+      "KING",
+      "LINK",
+      "VIGIL",
+      "LIKING",
+      "LIVING",
+      "VIKING"
+    ],
+    "word" : "VKIIGNL"
+  },
+  {
+    "rs" : [
+      "ADO",
+      "AGO",
+      "DOG",
+      "GAD",
+      "GAP",
+      "GOD",
+      "PAD",
+      "PAP",
+      "POD",
+      "POP",
+      "GOAD",
+      "PAPA",
+      "PAGODA"
+    ],
+    "word" : "AAODPPG"
+  },
+  {
+    "rs" : [
+      "ASK",
+      "OAK",
+      "ALAS",
+      "ALSO",
+      "LOOK",
+      "OAKS",
+      "SOAK",
+      "SOLO",
+      "KOALA",
+      "LOOKS",
+      "KOALAS"
+    ],
+    "word" : "AAOOKSL"
+  },
+  {
+    "rs" : [
+      "OAR",
+      "OUR",
+      "RAW",
+      "ROW",
+      "WAR",
+      "AURA",
+      "ROAR",
+      "ARROW",
+      "AURORA"
+    ],
+    "word" : "OAARRWU"
+  },
+  {
+    "rs" : [
+      "EVE",
+      "HIE",
+      "HIT",
+      "KIT",
+      "TEE",
+      "THE",
+      "TIE",
+      "VET",
+      "VIE",
+      "HIKE",
+      "HIVE",
+      "KITE",
+      "THIEVE"
+    ],
+    "word" : "VHTIKEE"
+  },
+  {
+    "rs" : [
+      "FOE",
+      "OFF",
+      "SET",
+      "TOE",
+      "TOO",
+      "FEST",
+      "FOES",
+      "FOOT",
+      "SOFT",
+      "SOOT",
+      "TOES",
+      "OFFSET"
+    ],
+    "word" : "OOFFTES"
+  },
+  {
+    "rs" : [
+      "ACT",
+      "ARC",
+      "ART",
+      "CAR",
+      "CAT",
+      "RAT",
+      "TAR",
+      "CART",
+      "TACT",
+      "TART",
+      "CARAT",
+      "TRACT",
+      "ATTRACT"
+    ],
+    "word" : "AATTTRC"
+  },
+  {
+    "rs" : [
+      "DIM",
+      "ILL",
+      "LID",
+      "MID",
+      "MIX",
+      "DILL",
+      "IDLY",
+      "LILY",
+      "MILD",
+      "MILL",
+      "DILLY",
+      "DIMLY",
+      "MILDLY"
+    ],
+    "word" : "MDIYLLX"
+  },
+  {
+    "rs" : [
+      "BIB",
+      "BIG",
+      "BIN",
+      "BOB",
+      "BOG",
+      "GIN",
+      "GOB",
+      "ION",
+      "NIB",
+      "BONG",
+      "BINGO",
+      "GIBBON"
+    ],
+    "word" : "OBBIGN"
+  },
+  {
+    "rs" : [
+      "AGO",
+      "ARC",
+      "CAR",
+      "COG",
+      "CUR",
+      "OAR",
+      "OUR",
+      "RAG",
+      "RUG",
+      "CRAG",
+      "ROAR",
+      "CARGO",
+      "COUGAR"
+    ],
+    "word" : "AORRGUC"
+  },
+  {
+    "rs" : [
+      "MONKEY",
+      "MONK",
+      "OVEN",
+      "MOVE",
+      "VENOM",
+      "YOKE",
+      "KEY",
+      "OMEN",
+      "ONE",
+      "YEN",
+      "ENVY"
+    ],
+    "word" : "MVENOKY"
+  },
+  {
+    "rs" : [
+      "EVE",
+      "HEN",
+      "HUE",
+      "VAN",
+      "EVEN",
+      "HAVE",
+      "NAVE",
+      "VANE",
+      "HAVEN",
+      "HEAVE",
+      "VENUE",
+      "AVENUE",
+      "HEAVEN"
+    ],
+    "word" : "VHANEEU"
+  },
+  {
+    "rs" : [
+      "GYM",
+      "LOG",
+      "ROM",
+      "GORY",
+      "LOGO",
+      "LOOM",
+      "MOOR",
+      "ORGY",
+      "ROOM",
+      "GLOOM",
+      "GLORY",
+      "GROOM",
+      "GLOOMY"
+    ],
+    "word" : "OOMYRGL"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "AGE",
+      "CAN",
+      "HEN",
+      "NAG",
+      "ACHE",
+      "ACNE",
+      "CAGE",
+      "CANE",
+      "EACH",
+      "HANG",
+      "CACHE",
+      "CHANCE",
+      "CHANGE"
+    ],
+    "word" : "ANHGECC"
+  },
+  {
+    "rs" : [
+      "ASK",
+      "SEA",
+      "SEE",
+      "SUE",
+      "USE",
+      "EASE",
+      "SAKE",
+      "SEEK",
+      "QUAKE",
+      "QUAKES",
+      "SQUEAK"
+    ],
+    "word" : "AQKUSEE"
+  },
+  {
+    "rs" : [
+      "AIM",
+      "GAG",
+      "GIG",
+      "GIN",
+      "MAN",
+      "NAG",
+      "ZAG",
+      "ZIG",
+      "GAIN",
+      "GANG",
+      "MAIN",
+      "AGING",
+      "GAMING",
+      "GAZING"
+    ],
+    "word" : "AMIGGNZ"
+  },
+  {
+    "rs" : [
+      "DID",
+      "DIE",
+      "HID",
+      "VIE",
+      "DIED",
+      "DIVE",
+      "HIDE",
+      "HIVE",
+      "VIED",
+      "DIVED",
+      "DIVIDE"
+    ],
+    "word" : "HVDDIIE"
+  },
+  {
+    "rs" : [
+      "ACT",
+      "AIL",
+      "CAT",
+      "LIT",
+      "TIC",
+      "VIA",
+      "TAIL",
+      "VAIL",
+      "CAVIL",
+      "CILIA",
+      "CIVIL",
+      "VITAL",
+      "ITALIC"
+    ],
+    "word" : "ATVIILC"
+  },
+  {
+    "rs" : [
+      "COL",
+      "COT",
+      "LET",
+      "LOT",
+      "TOE",
+      "CELL",
+      "CLOT",
+      "TELL",
+      "TOLL",
+      "CELLO",
+      "COLLECT"
+    ],
+    "word" : "OTELLCC"
+  },
+  {
+    "rs" : [
+      "EWE",
+      "PEN",
+      "FEE",
+      "PEW",
+      "FEW",
+      "HEWN",
+      "HEN",
+      "WEEP",
+      "HEW",
+      "WHEN",
+      "NEW",
+      "NEPHEW"
+    ],
+    "word" : "HFWPEEN"
+  },
+  {
+    "rs" : [
+      "AWE",
+      "WEB",
+      "BEE",
+      "HAVE",
+      "EVE",
+      "WAVE",
+      "EWE",
+      "HEEAVE",
+      "HAW",
+      "WEAVE",
+      "HEW",
+      "BEHAVE"
+    ],
+    "word" : "AHVWBEEE"
+  },
+  {
+    "rs" : [
+      "CRY",
+      "CITY",
+      "ICK",
+      "LICK",
+      "ILK",
+      "TICK",
+      "KIT",
+      "LYRIC",
+      "LIT",
+      "TRICK",
+      "TIC",
+      "TRICKY",
+      "TRY"
+    ],
+    "word" : "IRKTCLY"
+  },
+  {
+    "rs" : [
+      "FIR",
+      "FURY",
+      "FIT",
+      "JURY",
+      "FRY",
+      "TURF",
+      "FUR",
+      "FRUIT",
+      "JUT",
+      "TURFY",
+      "RUT",
+      "FRUITY",
+      "TRY"
+    ],
+    "word" : "IRJFTYU"
+  },
+  {
+    "rs" : [
+      "EEL",
+      "MEET",
+      "ELM",
+      "MELT",
+      "LEE",
+      "TEEM",
+      "LET",
+      "TEXT",
+      "MET",
+      "METTLE",
+      "TEE"
+    ],
+    "word" : "XMTTEEL"
+  },
+  {
+    "rs" : [
+      "BAN",
+      "BOOM",
+      "BOA",
+      "BOON",
+      "BOO",
+      "MONO",
+      "MAN",
+      "MOON",
+      "MOB",
+      "BABOON",
+      "BOMB",
+      "BAMBOO"
+    ],
+    "word" : "AOOMBBN"
+  },
+  {
+    "rs" : [
+      "DUO",
+      "OLDS",
+      "OLD",
+      "SSHOD",
+      "SOD",
+      "SOLD",
+      "HOLD",
+      "SOUL",
+      "HUSH",
+      "HOLDS",
+      "LOUD",
+      "SHOULD",
+      "LUSH"
+    ],
+    "word" : "OHHDULSS"
+  },
+  {
+    "rs" : [
+      "EMU",
+      "MEMO",
+      "MOM",
+      "MOMS",
+      "MUSE",
+      "MUM",
+      "SUE",
+      "SOME",
+      "SUM",
+      "SUMO",
+      "USE",
+      "MOUSE",
+      "SMUS",
+      "MUSEUM"
+    ],
+    "word" : "OMMUUESS"
+  },
+  {
+    "rs" : [
+      "COD",
+      "COVE",
+      "DOE",
+      "DECO",
+      "EVE",
+      "DEED",
+      "ODD",
+      "DOVE",
+      "ODE",
+      "CEDE",
+      "CODED",
+      "CODE",
+      "DECODE"
+    ],
+    "word" : "OVDDEEC"
+  },
+  {
+    "rs" : [
+      "BUR",
+      "HUBS",
+      "BUS",
+      "RUBS",
+      "HUB",
+      "RUSH",
+      "RUB",
+      "SUBS",
+      "SUB",
+      "BRUSH",
+      "BURS",
+      "SHRUB",
+      "BUSH",
+      "SHRUBS"
+    ],
+    "word" : "HRBUSS"
+  },
+  {
+    "rs" : [
+      "ILL",
+      "LID",
+      "DOLL",
+      "IDOL",
+      "LOW",
+      "WILD",
+      "OIL",
+      "WILL",
+      "OLD",
+      "WOLD",
+      "OWL",
+      "WIDOW",
+      "WOW",
+      "WILLOW"
+    ],
+    "word" : "ODIWWLL"
+  },
+  {
+    "rs" : [
+      "ION",
+      "JOIN",
+      "JOY",
+      "JURY",
+      "NOR",
+      "RUIN",
+      "OUR",
+      "YOUR",
+      "RUN",
+      "IRONY",
+      "URN",
+      "INJURY",
+      "YOU",
+      "JUNIOR",
+      "IRON"
+    ],
+    "word" : "IRNJOYU"
+  },
+  {
+    "rs" : [
+      "ALE",
+      "LAZE",
+      "APE",
+      "LEAP",
+      "LAP",
+      "PALE",
+      "LEA",
+      "PEAL",
+      "PAL",
+      "PLEA",
+      "PEA",
+      "ZEAL",
+      "ZAP",
+      "PUZZLE"
+    ],
+    "word" : "AZZPULE"
+  },
+  {
+    "rs" : [
+      "ELF",
+      "FULL",
+      "FLU",
+      "FUSE",
+      "SUE",
+      "SELF",
+      "USE",
+      "SELL",
+      "FELL",
+      "FLUE",
+      "USEFUL",
+      "FUEL"
+    ],
+    "word" : "SFUUELL"
+  },
+  {
+    "rs" : [
+      "NOEL",
+      "JOY",
+      "ONLY",
+      "LYE",
+      "YELL",
+      "ONE",
+      "ENJOY",
+      "YEN",
+      "JELLY",
+      "JELL",
+      "JOLLY",
+      "JOEEY",
+      "LONELY",
+      "LONE"
+    ],
+    "word" : "OJYNEELL"
+  },
+  {
+    "rs" : [
+      "ICE",
+      "VICE",
+      "SEC",
+      "VIES",
+      "SSIC",
+      "COVES",
+      "VIE",
+      "VICES",
+      "COVE",
+      "VOICE",
+      "ICES",
+      "VOICES"
+    ],
+    "word" : "VSSOIEC"
+  },
+  {
+    "rs" : [
+      "DEN",
+      "GENE",
+      "EEEL",
+      "GLEE",
+      "LEND",
+      "END",
+      "GEL",
+      "LED",
+      "LEE",
+      "LEG",
+      "EDGE",
+      "NEED",
+      "LEDGE",
+      "LEGEND",
+      "NEEDLE"
+    ],
+    "word" : "LDNEEEG"
+  },
+  {
+    "rs" : [
+      "GEL",
+      "ISLE",
+      "HIS",
+      "LEG",
+      "LIE",
+      "SHE",
+      "GELS",
+      "HIGH",
+      "LEGS",
+      "LIES",
+      "SIGH",
+      "HIGHS",
+      "SLEIGH"
+    ],
+    "word" : "SHHIGEL"
+  },
+  {
+    "rs" : [
+      "CUR",
+      "COUCH",
+      "OUR",
+      "CURS",
+      "HOUR",
+      "OURS",
+      "RUSH",
+      "SOUR",
+      "SUCH",
+      "CRUSH",
+      "HOURS",
+      "OCCUR",
+      "SCOUR",
+      "CHORUS",
+      "OCCURS"
+    ],
+    "word" : "OHRUSCC"
+  },
+  {
+    "rs" : [
+      "AIL",
+      "LAYS",
+      "IVY",
+      "SAIL",
+      "LAY",
+      "SLAY",
+      "SAY",
+      "VIAL",
+      "SLY",
+      "VISA",
+      "VIA",
+      "VIALS",
+      "AAILS",
+      "VISUAL"
+    ],
+    "word" : "LVIAASYU"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "CINE",
+      "CAN",
+      "NICE",
+      "ICE",
+      "NINE",
+      "INN",
+      "INANE",
+      "NUN",
+      "ACNE",
+      "CANE",
+      "CANINE",
+      "NUANCE"
+    ],
+    "word" : "AUINNEC"
+  },
+  {
+    "rs" : [
+      "FIR",
+      "FURS",
+      "FOR",
+      "OURS",
+      "FUR",
+      "SOUR",
+      "OUR",
+      "SURF",
+      "SIR",
+      "FOURS",
+      "FIRS",
+      "FURIOUS",
+      "FOUR"
+    ],
+    "word" : "OFRIUUS"
+  },
+  {
+    "rs" : [
+      "DEW",
+      "DIED",
+      "DID",
+      "ICED",
+      "DIE",
+      "WEED",
+      "EWE",
+      "WIDE",
+      "ICE",
+      "CEDE",
+      "DICED",
+      "DEED",
+      "DECIDE",
+      "DICE"
+    ],
+    "word" : "DDWIEEC"
+  },
+  {
+    "rs" : [
+      "HEN",
+      "HERB",
+      "HER",
+      "HEWN",
+      "HEW",
+      "WHEN",
+      "NEW",
+      "WREN",
+      "WEB",
+      "BENCH",
+      "BREW",
+      "WENCH",
+      "CHEW",
+      "WRENCH",
+      "CREW"
+    ],
+    "word" : "RNEWBCH"
+  },
+  {
+    "rs" : [
+      "EMU",
+      "MEMO",
+      "MENU",
+      "ION",
+      "MIME",
+      "MEN",
+      "MINEE",
+      "MOM",
+      "OMEN",
+      "MUM",
+      "IMMUNE",
+      "ONE"
+    ],
+    "word" : "OMMIUEEN"
+  },
+  {
+    "rs" : [
+      "CON",
+      "INCH",
+      "ION",
+      "RICH",
+      "CHIN",
+      "CHOIR",
+      "COIN",
+      "IONIC",
+      "CCORN",
+      "RHINO",
+      "HORN",
+      "IRONIC",
+      "ICON"
+    ],
+    "word" : "OHRIINCC"
+  },
+  {
+    "rs" : [
+      "ICE",
+      "LIRE",
+      "ILL",
+      "RICE",
+      "IRE",
+      "RILE",
+      "LIE",
+      "RELIC",
+      "CEIL",
+      "CIRCLE",
+      "CELL",
+      "CLERIC",
+      "LICE"
+    ],
+    "word" : "LLRIECC"
+  },
+  {
+    "rs" : [
+      "GEL",
+      "CEIL",
+      "GIN",
+      "CINE",
+      "ICE",
+      "LICE",
+      "JIG",
+      "LIEN",
+      "LEG",
+      "LINE",
+      "NICE",
+      "LIE",
+      "NIL",
+      "JINGLE"
+    ],
+    "word" : "IENJGCL"
+  },
+  {
+    "rs" : [
+      "ACE",
+      "FACE",
+      "FAD",
+      "FADE",
+      "CAFE",
+      "FAKE",
+      "CAKE",
+      "FACED",
+      "DEAF",
+      "FAKED",
+      "DECK",
+      "FACADE"
+    ],
+    "word" : "AAFDKEC"
+  },
+  {
+    "rs" : [
+      "AGO",
+      "LOAN",
+      "GAL",
+      "LONG",
+      "LAG",
+      "LOG",
+      "LOON",
+      "NAG",
+      "ALONG",
+      "GOAL",
+      "LAGOON"
+    ],
+    "word" : "AOOGLN"
+  },
+  {
+    "rs" : [
+      "VEST",
+      "VOTE",
+      "STOVES",
+      "VETS",
+      "VETO",
+      "SETS",
+      "VET",
+      "TEST",
+      "STOVE",
+      "VESTS",
+      "TOES",
+      "SET",
+      "TOE",
+      "VOTES",
+      "TESTS"
+    ],
+    "word" : "VTTOSSE"
+  },
+  {
+    "rs" : [
+      "COT",
+      "CORE",
+      "ORE",
+      "CORK",
+      "RET",
+      "ROCK",
+      "ROE",
+      "ROTE",
+      "ROT",
+      "TORE",
+      "TOE",
+      "TREK",
+      "COKEE",
+      "ROCKET"
+    ],
+    "word" : "OTRKEEC"
+  },
+  {
+    "rs" : [
+      "AGE",
+      "GAVE",
+      "EGG",
+      "GENE",
+      "EVE",
+      "NAVE",
+      "GAG",
+      "VANE",
+      "NAG",
+      "VEGAN",
+      "VAN",
+      "AVENGE",
+      "EVEN",
+      "ENGAGE",
+      "GANG"
+    ],
+    "word" : "AVGGEEN"
+  },
+  {
+    "rs" : [
+      "EVE",
+      "VEER",
+      "REV",
+      "NERVE",
+      "RUE",
+      "NEVER",
+      "RUN",
+      "REVUE",
+      "URN",
+      "VENUE",
+      "EVEN",
+      "REVENUE",
+      "EVER"
+    ],
+    "word" : "VRNEEEU"
+  },
+  {
+    "rs" : [
+      "NET",
+      "TEEN",
+      "NIT",
+      "TENT",
+      "TEE",
+      "TEXT",
+      "TEN",
+      "TINE",
+      "TIE",
+      "TINT",
+      "TIN",
+      "TENET",
+      "EXIT",
+      "EXTENT",
+      "NEXT"
+    ],
+    "word" : "TTINEEX"
+  },
+  {
+    "rs" : [
+      "COOK",
+      "CODE",
+      "DIE",
+      "ODE",
+      "ICED",
+      "IE",
+      "DICE",
+      "DOE",
+      "DECO",
+      "DECK",
+      "KID",
+      "COOKIE",
+      "COKE",
+      "DOCK"
+    ],
+    "word" : "OODIKEC"
+  },
+  {
+    "rs" : [
+      "COT",
+      "SOCK",
+      "HOT",
+      "CHOCK",
+      "COCK",
+      "COCKS",
+      "COST",
+      "HOCKS",
+      "COTS",
+      "SHOCCK",
+      "HOCK",
+      "SSTOCK",
+      "HOST",
+      "CHOCKS",
+      "SSHOT",
+      "SCOTCH"
+    ],
+    "word" : "OTKHSSCC"
+  },
+  {
+    "rs" : [
+      "FIT",
+      "FLIP",
+      "FLY",
+      "FLIT",
+      "LIP",
+      "LIFT",
+      "LIT",
+      "PITY",
+      "PIT",
+      "FITLY",
+      "PLY",
+      "TYPIFY",
+      "TIP"
+    ],
+    "word" : "FTIPLYY"
+  },
+  {
+    "rs" : [
+      "ACT",
+      "CATS",
+      "CAT",
+      "CUTS",
+      "CUT",
+      "FACT",
+      "FAT",
+      "FAST",
+      "SAC",
+      "FATS",
+      "SAT",
+      "SCAT",
+      "ACTS",
+      "FACTS",
+      "CAST",
+      "CACTUS"
+    ],
+    "word" : "ATFUSCC"
+  },
+  {
+    "rs" : [
+      "DID",
+      "SIZE",
+      "DIE",
+      "DEEDS",
+      "SEE",
+      "SEIZE",
+      "DEED",
+      "SIDED",
+      "DIED",
+      "SIZED",
+      "DIES",
+      "EDDIES",
+      "SEED",
+      "SEIZED",
+      "SIDE"
+    ],
+    "word" : "EEDDISZ"
+  }
+]
